@@ -1,9 +1,18 @@
 {{ define "main" }}
-  <h1>Posts</h1>
-  {{ range .Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
+
+<main class="container">
+  <div class="row g-5">
       {{ .Content }}
-    </article>
+
+  <h1>Posts</h1>
+    <article>
+    <ul>
+  {{ range .Pages }}
+      <li><a href="{{.URL}}">{{ .Title }}</a></li>
   {{ end }}
+    </ul>
+    </article>
+  </div>
+</main>
+
 {{ end }}

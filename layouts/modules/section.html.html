@@ -1,0 +1,28 @@
+{{ define "title" }}
+{{ .Page.Title }} | {{ .Site.Title}}
+{{ end }}
+
+{{ define "main" }}
+
+<main class="container">
+
+  {{ partial "card.html" . }}
+  
+  asfd
+
+  <h1>ASDF</h1>
+    <article>
+    <ul>
+  {{ range .Pages }}
+      <li><a href="{{.RelPermalink}}">{{ if eq (len .Title) 0 }}{{.Permalink}}{{ end }}{{if gt (len .Title) 0 }}{{ .Title }}{{ end }}</a></li>
+  {{ end }}
+    </ul>
+    </article>
+
+  <div class="row g-5">
+      {{ .Content }}
+
+  </div>
+</main>
+
+{{ end }}
