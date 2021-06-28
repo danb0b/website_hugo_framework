@@ -3,6 +3,7 @@ title: Singularities and Solver Problems
 types: [submodule,] 
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
+bibFile: data/bib.json # path relative to project root
 ---
 
 # Singularities and Solver Problems
@@ -61,6 +62,8 @@ If trying to replicate a traditional robot, there are several caveats to making 
 Hinge lines may be imported for kinematics study, just as body lines are imported for manufacturing file generation. For this we recommend importing just the body and hinge information in order to infer link-link connections to establish the topology, for plotting.
 
 ## Further Reading
-[@Gosselin1990],[@McCarthy2011],[@Waldron1966]
+{{< cite "Gosselin1990" >}},{{< cite "McCarthy2011" >}},{{< cite "Waldron1966" >}}
 
 ## Bibliography
+
+{{< bibliography cited >}}

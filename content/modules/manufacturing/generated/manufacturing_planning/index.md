@@ -1,6 +1,7 @@
 ---
 title: Manufacturing Computation for Multi-layer Devices
 types: [submodule,] 
+bibFile: data/bib.json # path relative to project root
 ---
 
 # Manufacturing Computation for Multi-layer Devices
@@ -28,7 +29,7 @@ foldable_robotics.resolution=4
 
 ```
 
-The first assumption we make for narrow hinges is that the hinge actually rotates about one line. This is not necessarily a valid assumption in all cases, because by exposing an area of soft material we have essentially formed a cantilever beam which bends along its entire length. However, when the length of a hinge is small in comparison to other design geometries, it makes the computation of kinematics much simpler. So whenever possible we make that assumption. Some have attempted to create models which account for this behavior [@odhner] in similar flexure joints.
+The first assumption we make for narrow hinges is that the hinge actually rotates about one line. This is not necessarily a valid assumption in all cases, because by exposing an area of soft material we have essentially formed a cantilever beam which bends along its entire length. However, when the length of a hinge is small in comparison to other design geometries, it makes the computation of kinematics much simpler. So whenever possible we make that assumption. Some have attempted to create models which account for this behavior {{< cite "Odhner2012a" >}} in similar flexure joints.
 
 
 The second problem is that the thickness of the material can interfere with itself at and around joints. Figure X highlights the problem. As the material rotates about a virtual joint defined by the midpoint of the flexure material, it can come into contact with itself much earlier than anticipated by the ideal, infinitely thin assumption. To determine the needed hinge length given a desired range of motion(b) and laminate thickness(t), you can use the equation (<!--\ref{eqn:lengthrule}-->), or conversely, (<!--\ref{eqn:rotationrule}-->).

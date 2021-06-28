@@ -9,6 +9,7 @@ module: biomechanics
 type: assignment
 layout: page
 overlay_text: draft
+bibFile: data/bib.json # path relative to project root
 ---
 
 # Biomechanics Background and Initial Specifications
@@ -22,7 +23,7 @@ _Please Read this whole assignment first._
 ## Suggestions
 
 * It will be useful to start using a program like [Mendeley](https://www.mendeley.com/?interaction_required=true) to collect and organize references.
-* Be creative in your search terms. Use [@Dickinson2000] to find good starting points for references and keywords.
+* Be creative in your search terms. Use {{< cite "Dickinson2000" >}} to find good starting points for references and keywords.
 * Start writing down search keywords from class.
 
 ## External Resources
@@ -152,6 +153,8 @@ Please also post this completed assignment to your team's website.  This may be 
 | References  |        |
 -->
 
-<!--[@Bennett1985],[@Kramer2011],[@DeLong2010],[@Makarieva2008],[@Hanna2011],[@Taylor1982],[@Weir1949]-->
+<!--{{< cite "Bennett1985" >}},{{< cite "Kramer2011" >}},{{< cite "DeLong2010" >}},{{< cite "Makarieva2008" >}},{{< cite "Hanna2011" >}},{{< cite "Taylor1982" >}},{{< cite "Weir1949" >}}-->
 
 ## Bibliography
+
+{{< bibliography cited >}}
