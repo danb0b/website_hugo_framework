@@ -7,13 +7,41 @@
 <main class="container">
   <h1>module section: {{ .Title }}</h1>
 
+{{ $submodules := where .Pages "Params.types" "intersect" (slice "submodule") }}
+{{ $tutorials := where .Pages "Params.types" "intersect" (slice "tutorial") }}
+{{ $others := where .Pages "Params.types" "=" nil }}
+
+{{ if ne (len $submodules) 0}}
+<h2>Submodules</h2>
 <div class="row">
-  {{ range .Pages }}
+  {{ range $submodules }}
   {{ partial "card.html" . }}
   {{ end }}
 </div>
+{{ end }}
 
-      {{ .Content }}
+{{ if ne (len $tutorials) 0}}
+<h2>Tutorials</h2>
+<div class="row">
+  {{ range $tutorials }}
+  {{ partial "card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
+
+
+{{ if ne (len $others) 0}}
+{{ if or (ne (len $tutorials) 0) (ne (len $submodules) 0)}}
+<h2>Others</h2>
+{{ end }}
+<div class="row">
+  {{ range $others }}
+  {{ partial "card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{ .Content }}
 
 </main>
 

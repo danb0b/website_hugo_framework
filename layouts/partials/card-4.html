@@ -1,6 +1,8 @@
-<div class="col col-md-3">
+<div class="col col-md-4">
 <div class="card text-center h-100">
+{{ if (isset .Params "image" ) }}
 <img class="card-img-top" src="{{ .Site.Params.home }}{{ .Params.image }}" alt="Card image cap">
+{{ end }}
 <h3 class="card-title"><a href="{{.URL}}">{{if eq (len .Title) 0}}{{ .URL }}{{ else }}{{ .Title }}{{end}}</a></h3>
 <div class="card-body">
 <p class="card-text">{{.Params.description}}</p>

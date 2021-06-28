@@ -88,8 +88,8 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         {{ range .Site.Params.menu }}
         <li class="nav-item">
-          {{ if eq .external false }}<a class="nav-link" href="{{ .link }}">{{ .name }}</a>{{ end }}
-          {{ if eq .external true }}<a class="nav-link" href="{{ .link }}"target="_blank">{{ .name }} <i class="fas fa-external-link-alt"></i></a> {{ end }}
+          {{ if eq .external false }}<a class="nav-link" href="{{ .link }}">{{ .name }}</a>{{ else }}
+          <a class="nav-link" href="{{ .link }}"target="_blank">{{ .name }} <i class="fas fa-external-link-alt"></i></a> {{ end }}
         </li>
         {{end}}
       </ul>

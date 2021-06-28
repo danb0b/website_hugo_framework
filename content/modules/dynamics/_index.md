@@ -2,7 +2,7 @@
 title: Dynamics
 layout: module
 image: /images/module_icons/dynamics2.png
-description: text
+description: Model how your design moves over time
 ---
 <!--
 TODO:

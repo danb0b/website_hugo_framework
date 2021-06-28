@@ -2,7 +2,7 @@
 title: Syllabus for Foldable Robotics 
 subtitle: Version 2020-12-31
 overlay_text: DRAFT
-published: True
+published: true
 ---
 
 ## Overview 

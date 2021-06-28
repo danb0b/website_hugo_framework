@@ -2,5 +2,5 @@
 title: Integration
 layout: module
 image: /images/module_icons/integration.png
-description: text
+description: Selecting actuators, power, and microcontrollers and putting them together
 ---

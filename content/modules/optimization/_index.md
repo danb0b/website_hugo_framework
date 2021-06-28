@@ -2,7 +2,7 @@
 title: Optimization
 layout: module
 image: /images/module_icons/optimization2.png
-description: Here is some text
+description: Approaches for identifying models and improving your design
 ---
 
 ## Other Resources

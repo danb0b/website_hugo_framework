@@ -2,6 +2,6 @@
 title: Introduction
 layout: module
 image: /images/module_icons/introduction.png
-description: Here is some text
+description: Overview of the class and introduction to main topics
 ---
 

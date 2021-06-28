@@ -1,8 +1,8 @@
 ---
-title: Manufacturing
+title: Prototyping & Manufacturing
 layout: module
 image: /images/module_icons/manufacturing.png
-description: Here is some text
+description: Manufacturable computation of machine-code
 ---
 
 

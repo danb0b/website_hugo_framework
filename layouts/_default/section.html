@@ -12,7 +12,7 @@
   <h2> Subpages:</h2>
     <ul>
   {{ range .Pages }}
-      <li><a href="{{.URL}}">{{ if eq (len .Title) 0 }}{{.URL}}{{ end }}{{if gt (len .Title) 0 }}{{ .Title }}{{ end }}</a></li>
+      <li><a href="{{.URL}}">{{ if eq (len .Title) 0 }}{{.URL}}{{ else }}{{ .Title }}{{ end }}</a></li>
   {{ end }}
     </ul>
 

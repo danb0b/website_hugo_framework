@@ -2,7 +2,7 @@
 title: Python
 layout: module
 image: /images/module_icons/python.png
-description: Here is some text
+description: Python-specific modules, tutorials, and assignments
 ---
 
 ## Main Python References

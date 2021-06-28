@@ -6,14 +6,16 @@
 
 <main class="container">
   <h1>Assignment Section: {{ .Title }}</h1>
-  
+
+
 <table>
 <tr>
-<th>Name </th><th> URL </th> <th>Week</th><th> points </th>
+<th>Week</th> <th>Name </th> <th> Points </th>
 </tr>
-{{ range .Pages }}
+{{ $pages:= sort .Pages "Params.week" }}
+{{ range $pages }}
 <tr>
-<td>{{ .Title }} </td><td> {{ .URL }}</td><td>{{ .Page.Params.week }}</td> <td> {{ .Page.Params.points }}</td>
+<td>{{ .Page.Params.week }}</td><td><a href="{{ .RelPermalink }}">{{ .Title }} </a></td> <td> {{ .Page.Params.points }}</td>
 </tr>
 {{ end }}
 </table>

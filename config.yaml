@@ -37,4 +37,4 @@ ignorefiles:
   - "content/modules/integration/_drafts"
   - "content/modules/dynamics/_drafts"
   - "content/modules/compliance/_drafts"
-  - "assignments/**/_drafts"  
+  - "assignments/_drafts"  

@@ -1,8 +1,8 @@
 ---
-title: Validation
+title: Experimental Validation
 layout: module
 image: /images/module_icons/validation.png
-description: Here is some text
+description: Experimental techniques for verifying your foldable robot
 ---
 
 
