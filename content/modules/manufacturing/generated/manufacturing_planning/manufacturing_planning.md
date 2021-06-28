@@ -1,6 +1,6 @@
 ---
 title: Manufacturing Computation for Multi-layer Devices
-type: submodule
+types: [submodule,] 
 ---
 
 # Manufacturing Computation for Multi-layer Devices

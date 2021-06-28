@@ -1,6 +1,6 @@
 ---
 title: Inertias for common shapes
-type: submodule
+types: [submodule,] 
 ---
 
 # Inertias for common shapes

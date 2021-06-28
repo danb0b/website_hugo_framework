@@ -1,6 +1,6 @@
 ---
 title: Scipy Optimization Example
-type: submodule
+types: [submodule,] 
 ---
 # Scipy Optimization Example
 

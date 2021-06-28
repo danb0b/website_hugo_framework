@@ -1,6 +1,6 @@
 ---
 title: Introduction
-type: submodule
+types: [submodule,] 
 published: False
 ---
 

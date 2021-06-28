@@ -1,6 +1,6 @@
 ---
 title: Hinges
-type: submodule
+types: [submodule,] 
 ---
 
 # Hinges

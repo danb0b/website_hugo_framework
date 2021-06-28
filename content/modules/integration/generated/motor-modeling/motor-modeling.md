@@ -1,6 +1,6 @@
 ---
 title: Motor Modeling Process
-type: submodule
+types: [submodule,] 
 ---
 
 # Motor Modeling Process

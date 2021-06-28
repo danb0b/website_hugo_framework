@@ -1,6 +1,6 @@
 ---
 title: Solving Kinematics Numerically with Python
-type: submodule
+types: [submodule,] 
 ---
 
 
@@ -48,7 +48,7 @@ def length(v1):
     
     :param v1: the vector
     :type v1: tuple or list of floats
-    :rtype: float
+    :rtypes: [float,] 
     '''
     v1 = numpy.array(v1).flatten()
     l = (v1.dot(v1))**.5
@@ -68,7 +68,7 @@ def inner_angle(v1,v2):
     :type v1: tuple or list of floats
     :param v2: the second vector
     :type v2: tuple or list of floats
-    :rtype: float
+    :rtypes: [float,] 
     '''
     v1 = numpy.array(v1).flatten()
     l1 = length(v1)
@@ -93,7 +93,7 @@ def total_angle(v1,v2,v3=None):
     :type v1: tuple or list of floats
     :param v2: the second vector
     :type v2: tuple or list of floats
-    :rtype: float
+    :rtypes: [float,] 
     '''
 
     v1 = numpy.array(v1).flatten()

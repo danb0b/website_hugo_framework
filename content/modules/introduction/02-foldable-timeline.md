@@ -2,7 +2,7 @@
 bibliography: ../../project/bibliography.bib
 csl: ../..//project/ieee.csl
 title: Foldable Robotics Timeline
-type: submodule
+types: [submodule,] 
 description: A visual timeline of foldable robotics
 ---
 # Foldable Robotics Timeline

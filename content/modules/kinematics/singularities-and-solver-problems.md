@@ -1,6 +1,6 @@
 ---
 title: Singularities and Solver Problems
-type: submodule
+types: [submodule,] 
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
 ---

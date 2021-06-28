@@ -1,5 +1,5 @@
 ---
-type: tutorial
+types: [tutorial,] 
 title: Arduino Setup Tutorial
 //subtitle:
 class_name: EGR557

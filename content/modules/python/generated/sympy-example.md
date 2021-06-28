@@ -1,6 +1,6 @@
 ---
 title: Sympy Example
-type: tutorial
+types: [tutorial,] 
 ---
 
 

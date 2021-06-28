@@ -1,6 +1,6 @@
 ---
 title: Least Squares Optimization
-type: submodule
+types: [submodule,] 
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Variable Types
-type: submodule
+types: [submodule,] 
 ---
 
 Variables in pynamics may be grouped into different categories, and used for different things.  We must be careful to talk about these different types of variables carefully, as they have vastly different meanings when it comes to  how they are used and computed in *pynamics*

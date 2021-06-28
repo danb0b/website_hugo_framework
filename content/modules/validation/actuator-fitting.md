@@ -1,6 +1,6 @@
 ---
 title: Actuator Fitting
-type: tutorial
+types: [tutorial,] 
 ---
 
 ## Introduction

@@ -2,7 +2,7 @@
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
 title: Vectors and Vector Math
-type: submodule
+types: [submodule,] 
 ---
 
 # Vectors and Vector Math

@@ -1,6 +1,6 @@
 ---
 title: Advanced Data Types
-type: submodule
+types: [submodule,] 
 ---
 
 # Advanced Data Types

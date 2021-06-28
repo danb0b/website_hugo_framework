@@ -1,5 +1,5 @@
 ---
-type: tutorial
+types: [tutorial,] 
 title: Running Dynamixel X-Series 
 subtitle: Using Arduino IDE for OpenCM9.04
 class_name: EGR557

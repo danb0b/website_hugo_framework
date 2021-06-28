@@ -1,6 +1,6 @@
 ---
 title: Cantilever Beams
-type: tutorial
+types: [tutorial,] 
 ---
 
 # Cantilever Beams

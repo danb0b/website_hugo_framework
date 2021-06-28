@@ -1,6 +1,6 @@
 ---
 title: Developing Specifications
-type: submodule
+types: [submodule,] 
 ---
 
 # Developing Specifications

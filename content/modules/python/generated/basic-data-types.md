@@ -1,6 +1,6 @@
 ---
 title: Basic Data Types
-type: submodule
+types: [submodule,] 
 ---
 
 # Basic Data Types

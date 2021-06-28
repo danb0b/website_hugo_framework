@@ -1,6 +1,6 @@
 ---
 title: Google Colab Documentation
-type: tutorial
+types: [tutorial,] 
 author: Mason Smith
 ---
 

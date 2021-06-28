@@ -1,6 +1,6 @@
 ---
 title: Dyads, Dyadics, and Inertia
-type: submodule
+types: [submodule,] 
 ---
 ## Dyads
 

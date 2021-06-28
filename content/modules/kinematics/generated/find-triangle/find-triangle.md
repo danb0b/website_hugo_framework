@@ -1,6 +1,6 @@
 ---
 title: Solve Triangle
-type: tutorial
+types: [tutorial,] 
 ---
 
 

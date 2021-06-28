@@ -1,6 +1,6 @@
 ---
 title: Rotations
-type: submodule
+types: [submodule,] 
 ---
 
 ## Introduction

@@ -1,6 +1,6 @@
 ---
 title: Sketching 2D Kinematics in CAD
-type: tutorial
+types: [tutorial,] 
 ---
 
 # Sketching 2D Kinematics in CAD

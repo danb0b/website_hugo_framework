@@ -1,6 +1,6 @@
 ---
 title: Solving Four-Bar Constraints
-type: submodule
+types: [submodule,] 
 ---
 # Solving Four-Bar Constraints
 

@@ -1,6 +1,6 @@
 ---
 title: Pynamics Vectors Example
-type: tutorial
+types: [tutorial,] 
 ---
 
 

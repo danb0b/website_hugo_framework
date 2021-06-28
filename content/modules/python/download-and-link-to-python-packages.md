@@ -1,6 +1,6 @@
 ---
 title: Download and Link to Python Packages
-type: tutorial
+types: [tutorial,] 
 ---
 
 # Download and Link to Python Packages

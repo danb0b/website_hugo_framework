@@ -1,7 +1,7 @@
 ---
 title: Installing Anaconda
 subtitle: for foldable robotics topics
-type: tutorial
+types: [tutorial,] 
 class_name: EGR557:Foldable Robotics
 ---
 

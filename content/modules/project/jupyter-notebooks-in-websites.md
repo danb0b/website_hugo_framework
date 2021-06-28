@@ -1,6 +1,6 @@
 ---
 title: Working with Jupyter Notebooks in your website
-type: tutorial
+types: [tutorial,] 
 ---
 
 ## Introduction

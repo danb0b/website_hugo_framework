@@ -2,7 +2,7 @@
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
 title: Foldable Robotics Background
-type: submodule
+types: [submodule,] 
 description: A short history of foldable robotics
 ---
 

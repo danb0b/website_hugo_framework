@@ -1,6 +1,6 @@
 ---
 title: FEA Modeling
-type: tutorial
+types: [tutorial,] 
 ---
 
 #  FEA Modeling

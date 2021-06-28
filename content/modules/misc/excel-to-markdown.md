@@ -1,7 +1,7 @@
 ---
 title: convert excel spreadsheet to markdown table
 module: misc
-type: tutorial
+types: [tutorial,] 
 ---
 
 

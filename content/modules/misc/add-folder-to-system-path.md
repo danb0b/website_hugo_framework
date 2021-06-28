@@ -1,5 +1,5 @@
 ---
-type: tutorial
+types: [tutorial,] 
 title: Add Folder to System Path
 class_name: EGR557
 ---

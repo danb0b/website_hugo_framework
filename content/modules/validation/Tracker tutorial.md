@@ -1,6 +1,6 @@
 ---
 title: Tracker Tutorial
-type: tutorial
+types: [tutorial,] 
 ---
 # Basic Tracker Tutorial
 

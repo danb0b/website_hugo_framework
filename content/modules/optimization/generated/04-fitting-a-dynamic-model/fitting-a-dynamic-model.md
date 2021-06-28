@@ -1,6 +1,6 @@
 ---
 title: Fitting a Dynamic Model
-type: submodule
+types: [submodule,] 
 ---
 
 # Fitting a Dynamic Model
