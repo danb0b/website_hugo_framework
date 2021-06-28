@@ -5,20 +5,16 @@
 {{ define "main" }}
 
 <main class="container">
-  <h1>{{ .Title }}</h1>
-    <article>
+  <h1>module section: {{ .Title }}</h1>
 
 <div class="row">
   {{ range .Pages }}
   {{ partial "card.html" . }}
   {{ end }}
 </div>
+
       {{ .Content }}
-    </article>
 
-  <div class="row g-5">
-
-  </div>
 </main>
 
 {{ end }}

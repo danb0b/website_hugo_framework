@@ -1,12 +1,12 @@
 {{ define "title" }}
-  <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
-  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ .Page.Title }} | {{ .Site.Title}}
 {{ end }}
+
 {{ define "main" }}
 <main class="container">
   <div class="row g-5">
 
-  <h1>{{ .Title }}</h1>
+  <h1>Default Single Page: {{ .Title }}</h1>
   {{ .Content }}
   </div>
 </main>
