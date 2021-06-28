@@ -30,3 +30,11 @@ params:
     
 taxonomies:
   type: types
+
+ignorefiles:
+  - "content/modules/biomechanics/_drafts"
+  - "content/modules/introduction/_drafts"
+  - "content/modules/integration/_drafts"
+  - "content/modules/dynamics/_drafts"
+  - "content/modules/compliance/_drafts"
+  - "assignments/**/_drafts"  
