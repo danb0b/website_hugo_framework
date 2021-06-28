@@ -2,12 +2,10 @@
 <main class="container">
 
   <div class="row">
-  {{ range where .Pages "Section" "modules" }}
-     {{ partial "card.html" . }}
+  {{ range .Pages }}
+    {{ partial "card.html" . }}
   {{ end }}
   </div>
-
-  <div class="row">
     <article class="blog-post">
 
     {{.Content}}
@@ -15,7 +13,6 @@
     </article>
 
 
-  </div>
 
 
 </main>

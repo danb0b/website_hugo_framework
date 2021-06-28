@@ -1,0 +1,24 @@
+{{ define "title" }}
+{{ .Page.Title }} | {{ .Site.Title}}
+{{ end }}
+
+{{ define "main" }}
+
+<main class="container">
+  <h1>Assignment Section: {{ .Title }}</h1>
+  
+<table>
+<tr>
+<th>Name </th><th> URL </th> <th>Week</th><th> points </th>
+</tr>
+{{ range .Pages }}
+<tr>
+<td>{{ .Title }} </td><td> {{ .URL }}</td><td>{{ .Page.Params.week }}</td> <td> {{ .Page.Params.points }}</td>
+</tr>
+{{ end }}
+</table>
+   {{ .Content }}
+
+</main>
+
+{{ end }}

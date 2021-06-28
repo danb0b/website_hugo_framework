@@ -15,19 +15,18 @@ params:
     - name: Tutorials
       link: /tutorials
       external: false
-    - name: Test
-      link: /test
+    - name: Assignments
+      link: /assignments
       external: false
-    - name: Test
-      link: /test
+    - name: Canvas Calendar
+      link: https://canvas.asu.edu/calendar#view_name=month
       external: true
-    - name: Test
-      link: /test
-      external: false
+    - name: Canvas
+      link: https://canvas.asu.edu/courses/71725
+      external: true
   author: Daniel M. Aukes
   home: ""
     
     
 taxonomies:
   type: types
-  junk: junks
