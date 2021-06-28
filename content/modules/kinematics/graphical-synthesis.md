@@ -1,5 +1,6 @@
 ---
 title: Graphical Synthesis
+type: tutorial
 ---
 
 # Graphical Synthesis
@@ -9,7 +10,7 @@ A popular way of deriving the desired kinematics of a device graphically has als
 
 ## By Hand Instructions
 
-Download the [part]({{site.baseurl}}/assets/graphical-synthesis/part2.sldprt)
+Download the [part]({{ .site.Params.home }}/assets/graphical-synthesis/part2.sldprt)
 
 The following instructions can be done by hand or with a tool like Solidworks.  If you do it by hand you will need a ruler and straightedge.
 
@@ -79,7 +80,7 @@ Five bar linkages, surprisingly, have one more bar
 
 ## Solidworks Instructions
 
-Download the [part]({{site.baseurl}}/assets/graphical-synthesis/part1.sldprt)
+Download the [part]({{ .site.Params.home }}/assets/graphical-synthesis/part1.sldprt)
 
 If you want to use the ability of Solidworks to add constraints to objects, this can simplify the process.  Below are the steps.
 

@@ -59,11 +59,11 @@ If measuring anything that has a  digital readout (but no serial output), make s
 | Plots   | 10     |
 | Code    | 10     |
 | ...     | ...    |
-| **Total**                              | {{page.points}} |
+| **Total**                              | |
 <!--unhide-->
 
 ## Rubric
 
 | Description | Points          |
 |:------------|:----------------|
-| **Total**   | {{page.points}} |
+| **Total**   | |

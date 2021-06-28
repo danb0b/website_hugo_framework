@@ -1,6 +1,8 @@
 ---
 title: Kinematics
 layout: module
+image: /images/module_icons/kinematics.png
+description: Here is some text
 ---
 
 ## Topics

@@ -1,9 +1,9 @@
 <div class="col col-md-3">
 <div class="card text-center">
-<img class="card-img-top" src="/images/logo_4_1_square_wa.svg" alt="Card image cap">
-<h3 class="card-title">{{ .Title }}</h3>
+<img class="card-img-top" src="{{ .Site.Params.home }}{{ .Params.image }}" alt="Card image cap">
+<h3 class="card-title"><a href="{{.URL}}">{{if eq (len .Title) 0}}{{ .URL }}{{end}}{{if gt (len .Title) 0}}{{ .Title }}{{end}}</a></h3>
 <div class="card-body">
-<p class="card-text">my card text</p>
+<p class="card-text">{{.Params.description}}</p>
 </div>
 </div>
 </div>

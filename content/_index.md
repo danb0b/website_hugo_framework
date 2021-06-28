@@ -1,24 +1,11 @@
 ---
-title: This is a Title
-author: Dan Aukes
-draft: false
+bibFile: data/bib.json # path relative to project root
 ---
 
-# This is the index page
-
-# Heading 1
+{{< cite "BenWang1988" >}}
 
 
-## Heading 2
+## Bibliography
 
-### Heading 3
+{{< bibliography cited >}}
 
-#### Heading 4
-
-* list 1
-* list 2
-* list 3
-
-1. list 1
-1. list 2
-1. list 3

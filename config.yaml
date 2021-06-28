@@ -1,3 +1,33 @@
 baseURL: https://danaukes.com/
 languageCode: en-us
-title: Dan Aukes
+title: Foldable Robotics
+
+theme: 
+  - "hugo-cite"
+
+enableInlineShortcodes: true
+
+params: 
+  menu:
+    - name: Modules
+      link: /modules
+      external: false
+    - name: Tutorials
+      link: /tutorials
+      external: false
+    - name: Test
+      link: /test
+      external: false
+    - name: Test
+      link: /test
+      external: true
+    - name: Test
+      link: /test
+      external: false
+  author: Daniel M. Aukes
+  home: ""
+    
+    
+taxonomies:
+  type: types
+  junk: junks

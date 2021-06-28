@@ -1,0 +1,58 @@
+[
+  {
+    "DOI": "10.1016/0360-8352(88)90029-0",
+    "ISSN": "03608352",
+    "abstract": "Machining operation planning involves the selection and sequencing of machining operations for fabricating a workpiece. It is the first step in the process of generating a detailed process plan for a workpiece. In the past five years, several knowledge-based systems have been developed. Two knowledge representation schemes are employed: production rules and frames. Each of these exhibits some general properties of human information processing but neglects the other. None of the existing systems is able to solve real-world problems. The main focus of this paper is on a layered architecture for manufacturing knowledge representation and automated reasoning for operation planning. This can be addressed through a discussion of both the knowledge representation structure and the inference mechanism. The proposed layered architecture has been implemented on a microcomputer using PROLOG. The results are satisfactory. ?? 1988.",
+    "author": [
+      {
+        "family": "(Ben) Wang",
+        "given": "Hsu Pin"
+      }
+    ],
+    "container-title": "Computers and Industrial Engineering",
+    "id": "BenWang1988",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "201-210",
+    "title": "<span class=\"nocase\">A layered architecture for manufacturing operation planning</span>",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "DOI": "10.1080/00207548808947915",
+    "ISSN": "0020-7543",
+    "URL": "http://dx.doi.org/10.1080/00207548808947915 http://www.tandfonline.com/doi/abs/10.1080/00207548808947915",
+    "abstract": "Automated process planning (APP) is a critical interface to both design and manufacturing. Several evolving systems have employed artificial intelligence (AI) procedures to capture the basic logic used by a process planner. However, no effort has been directed to systemize the knowledge in the field of process planning. In this paper process planning knowledge extraction and formalization will be discussed. A framework for the development of intelligent APP systems capable of learning through user interaction is also presented.$\\backslash$nAutomated process planning (APP) is a critical interface to both design and manufacturing. Several evolving systems have employed artificial intelligence (AI) procedures to capture the basic logic used by a process planner. However, no effort has been directed to systemize the knowledge in the field of process planning. In this paper process planning knowledge extraction and formalization will be discussed. A framework for the development of intelligent APP systems capable of learning through user interaction is also presented.",
+    "author": [
+      {
+        "family": "(BEN) WANG",
+        "given": "HSU-PIN"
+      },
+      {
+        "family": "WYSK",
+        "given": "RICHARD A."
+      }
+    ],
+    "container-title": "International Journal of Production Research",
+    "id": "BENWANG1988a",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          1988,
+          6
+        ]
+      ]
+    },
+    "page": "999-1014",
+    "title": "<span class=\"nocase\">A knowledge-based approach for automated process planning</span>",
+    "type": "article-journal",
+    "volume": "26"
+  }
+]

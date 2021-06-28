@@ -66,4 +66,4 @@ Write a detailed description of how you accomplisehd each of the steps above.  B
 | Discussion         |              20 |
 | Figures            |              10 |
 | Images             |              10 |
-| **Total**          | {{page.points}} |
+| **Total**          | **100** |
