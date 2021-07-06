@@ -12,6 +12,9 @@ params:
     - name: Modules
       link: /modules
       external: false
+    - name: Course Calendar
+      link: /calendar
+      external: false
     - name: Tutorials
       link: /tutorials
       external: false
@@ -26,10 +29,6 @@ params:
       external: true
   author: Daniel M. Aukes
   home: ""
-    
-    
-taxonomies:
-  type: types
 
 ignorefiles:
   - "content/modules/biomechanics/_drafts"
