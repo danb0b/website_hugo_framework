@@ -1,5 +1,5 @@
 ---
-types: [tutorial,] 
+type: tutorial
 title: Suggested Drawing and Modeling Software
 ---
 

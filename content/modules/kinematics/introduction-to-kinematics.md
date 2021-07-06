@@ -2,7 +2,7 @@
 bibliography: ../bibliography.bib
 csl: ../ieee.csl
 title: Kinematics Introduction
-types: [submodule,] 
+type: submodule
 ---
 
 # Kinematics Introduction

@@ -1,6 +1,6 @@
 ---
 title: Manufacturing Computation for Multi-layer Devices
-types: [submodule,] 
+type: submodule
 bibFile: data/bib.json # path relative to project root
 ---
 

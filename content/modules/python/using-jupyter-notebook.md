@@ -1,6 +1,6 @@
 ---
 title: Using Jupyter Notebook
-types: [tutorial,] 
+type: tutorial
 ---
 
 # Using Jupyter Notebook

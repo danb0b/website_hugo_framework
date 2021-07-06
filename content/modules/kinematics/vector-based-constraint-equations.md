@@ -1,6 +1,6 @@
 ---
 title: Vector Constraint Equations
-types: [submodule,] 
+type: submodule
 ---
 
 # Vector Constraint Equations

@@ -2,7 +2,7 @@
 bibliography: ../bibliography.bib
 csl: ../ieee.csl
 title: Intro to Python
-types: [submodule,] 
+type: submodule
 ---
 
 # Intro to Python

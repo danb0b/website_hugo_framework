@@ -1,6 +1,6 @@
 ---
 title: Scaling
-types: [submodule,] 
+type: submodule
 ---
 
 # Scaling

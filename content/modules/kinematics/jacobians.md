@@ -2,7 +2,7 @@
 title: Jacobians
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
-types: [submodule,] 
+type: submodule
 ---
 
 # Jacobians

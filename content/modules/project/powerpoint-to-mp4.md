@@ -1,6 +1,6 @@
 ---
 title: Converting Powerpoint to .mp4 
-types: [tutorial,] 
+type: tutorial
 ---
 
 # Converting Powerpoint to .mp4

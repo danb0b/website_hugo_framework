@@ -1,7 +1,7 @@
 ---
 title: System Capture and Fitting
 subtitle: Individual Assignment
-types: [tutorial,] 
+type: tutorial
 ---
 
 # System Capture and Fitting (camera)

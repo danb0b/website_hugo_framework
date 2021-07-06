@@ -1,5 +1,5 @@
 ---
-types: [submodule,] 
+type: submodule
 title: Packages in Python
 ---
 

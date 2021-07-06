@@ -2,7 +2,7 @@
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
 title: Foldable Robotics Background
-types: [submodule,] 
+type: submodule
 description: A short history of foldable robotics
 bibFile: data/bib.json # path relative to project root
 ---

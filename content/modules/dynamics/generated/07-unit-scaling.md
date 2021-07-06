@@ -1,6 +1,6 @@
 ---
 title: Unit Scaling
-types: [submodule,] 
+type: submodule
 ---
 
 # Unit Scaling

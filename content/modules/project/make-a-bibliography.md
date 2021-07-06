@@ -1,6 +1,6 @@
 ---
 title: Make a Bibliography
-types: [tutorial,] 
+type: tutorial
 ---
 
 # Make a Bibliography

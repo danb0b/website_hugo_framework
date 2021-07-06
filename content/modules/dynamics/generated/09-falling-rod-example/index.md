@@ -1,6 +1,6 @@
 ---
 title: Falling Rod Example
-types: [submodule,] 
+type: submodule
 ---
 # Falling Rod Example
 

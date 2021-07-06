@@ -1,6 +1,6 @@
 ---
 title: Plotting in 3D
-types: [submodule,] 
+type: submodule
 ---
 
 

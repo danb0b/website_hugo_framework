@@ -1,6 +1,6 @@
 ---
 title: Make a Project Repository and Website
-types: [tutorial,] 
+type: tutorial
 ---
 
 # Make a Project Repository and Website

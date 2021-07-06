@@ -1,5 +1,5 @@
 ---
-types: [tutorial,] 
+type: tutorial
 title: Solidworks Export Tutorial
 ---
 

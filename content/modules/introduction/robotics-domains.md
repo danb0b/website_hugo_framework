@@ -1,7 +1,7 @@
 ---
 title: Robotics Domains
 description: Robotics is multidisciplinary.  Foldable robotics draws from these fields
-types: [submodule,] 
+type: submodule
 ---
 
 ## Introduction

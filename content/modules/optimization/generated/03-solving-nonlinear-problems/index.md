@@ -1,6 +1,6 @@
 ---
 title: Solving Nonlinear Problems with Scipy Optimize and pyCMA
-types: [submodule,] 
+type: submodule
 ---
 
 # Solving Nonlinear Problems with Scipy Optimize and pyCMA

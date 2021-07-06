@@ -1,6 +1,6 @@
 ---
 title: Using the ASU Library Proxy
-types: [tutorial,] 
+type: tutorial
 ---
 
 ## Introduction

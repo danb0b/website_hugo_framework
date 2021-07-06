@@ -1,5 +1,5 @@
 ---
-types: [tutorial,] 
+type: tutorial
 title: Installing Git Extensions for Windows
 class_logo: "../graphics/ClassLogo.pdf"
 university_logo: "../graphics/UniversityLogo.pdf"

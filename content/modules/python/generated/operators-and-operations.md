@@ -1,6 +1,6 @@
 ---
 title: Operators & Operations
-types: [submodule,] 
+type: submodule
 ---
 # Operators & Operations
 

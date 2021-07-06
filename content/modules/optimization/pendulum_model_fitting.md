@@ -1,6 +1,6 @@
 ---
 title: Pendulum Model Fitting
-types: [tutorial,] 
+type: tutorial
 ---
 
 1. Find a bright round spherical object like a tennis ball, orange, etc.

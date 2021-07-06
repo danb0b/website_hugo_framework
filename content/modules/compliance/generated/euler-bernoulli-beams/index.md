@@ -1,6 +1,6 @@
 ---
 title: Euler-Bernoulli Beams
-types: [submodule,] 
+type: submodule
 ---
 
 # Euler-Bernoulli Beams

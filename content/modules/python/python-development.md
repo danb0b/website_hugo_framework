@@ -1,6 +1,6 @@
 ---
 title: Python Development
-types: [submodule,] 
+type: submodule
 ---
 
 # Python Development

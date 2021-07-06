@@ -1,6 +1,6 @@
 ---
 title: Singularities and Solver Problems
-types: [submodule,] 
+type: submodule
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
 bibFile: data/bib.json # path relative to project root

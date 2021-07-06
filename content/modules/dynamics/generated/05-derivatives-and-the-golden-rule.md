@@ -1,6 +1,6 @@
 ---
 title: Derivatives and the Golden Rule
-types: [submodule,] 
+type: submodule
 ---
 
 # Derivatives and the Golden Rule

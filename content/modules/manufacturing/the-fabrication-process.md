@@ -1,6 +1,6 @@
 ---
 title: The Fabrication Process
-types: [submodule,] 
+type: submodule
 ---
 
 # The Fabrication Process

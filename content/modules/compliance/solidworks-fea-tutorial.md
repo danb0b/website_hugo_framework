@@ -1,6 +1,6 @@
 ---
 title: Solidworks FEA Tutorial
-types: [tutorial,] 
+type: tutorial
 ---
 
 ## Solidworks FEA Tutorial

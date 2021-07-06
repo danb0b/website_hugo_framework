@@ -1,6 +1,6 @@
 ---
 title: Frames, Basis Vectors, and Vectors
-types: [submodule,] 
+type: submodule
 ---
 
 ## Frames

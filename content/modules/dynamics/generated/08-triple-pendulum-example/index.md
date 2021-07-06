@@ -1,6 +1,6 @@
 ---
 title: Triple Pendulum Example
-types: [submodule,] 
+type: submodule
 ---
 
 

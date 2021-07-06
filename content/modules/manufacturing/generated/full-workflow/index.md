@@ -1,6 +1,6 @@
 ---
 title: Full Design Pipeline
-types: [submodule,] 
+type: submodule
 ---
 
 # Full Design Pipeline

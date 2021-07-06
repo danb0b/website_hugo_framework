@@ -1,6 +1,6 @@
 ---
 title: Developing a Research Question
-types: [submodule,] 
+type: submodule
 ---
 
 #  Developing a Research Question

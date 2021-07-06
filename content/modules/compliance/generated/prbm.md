@@ -1,6 +1,6 @@
 ---
 title: Approximating compliant beams with the pseudo-rigid-body model
-types: [submodule,] 
+type: submodule
 ---
 #  Approximating compliant beams with the pseudo-rigid-body model
 

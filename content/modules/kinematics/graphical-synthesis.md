@@ -1,6 +1,6 @@
 ---
 title: Graphical Synthesis
-types: [tutorial,] 
+type: tutorial
 ---
 
 # Graphical Synthesis

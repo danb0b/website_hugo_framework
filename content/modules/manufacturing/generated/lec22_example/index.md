@@ -1,6 +1,6 @@
 ---
 title: Lecture 22 Code
-types: [tutorial,] 
+type: tutorial
 ---
 
 

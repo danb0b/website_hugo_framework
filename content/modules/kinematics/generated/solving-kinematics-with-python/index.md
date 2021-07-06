@@ -1,6 +1,6 @@
 ---
 title: Solving Kinematics Numerically with Python
-types: [submodule,] 
+type: submodule
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Forces and Torques
-types: [submodule,] 
+type: submodule
 ---
 
 # Forces and Torques

@@ -1,6 +1,6 @@
 ---
 title: Kane's method
-types: [submodule,] 
+type: submodule
 ---
 
 

@@ -2,7 +2,7 @@
 bibliography: ../../project/bibliography.bib
 csl: ../..//project/ieee.csl
 title: Foldable Robotics Timeline
-types: [submodule,] 
+type: submodule
 description: A visual timeline of foldable robotics
 bibFile: data/bib.json # path relative to project root
 ---
