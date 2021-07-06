@@ -13,7 +13,7 @@
 
 {{ if ne (len $submodules) 0}}
 <h2>Submodules</h2>
-<div class="row">
+<div class="row g-3">
   {{ range $submodules }}
   {{ partial "card.html" . }}
   {{ end }}
@@ -22,7 +22,7 @@
 
 {{ if ne (len $tutorials) 0}}
 <h2>Tutorials</h2>
-<div class="row">
+<div class="row g-3">
   {{ range $tutorials }}
   {{ partial "card.html" . }}
   {{ end }}
@@ -34,7 +34,7 @@
 {{ if or (ne (len $tutorials) 0) (ne (len $submodules) 0)}}
 <h2>Others</h2>
 {{ end }}
-<div class="row">
+<div class="row g-3">
   {{ range $others }}
   {{ partial "card.html" . }}
   {{ end }}
