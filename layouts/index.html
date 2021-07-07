@@ -1,11 +1,14 @@
 {{ define "main" }}
-<main class="container">
-
-  <div class="row g-3">
+  <div class="container px-4 py-5" id="hanging-icons">
+    <h2 class="pb-2 border-bottom">Browse the Site</h2>
+    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
   {{ range .Pages }}
-    {{ partial "card-4.html" . }}
+    {{ partial "cardmod.html" . }}
   {{ end }}
+    </div>
   </div>
+
+<main class="container">
 
   <article class="blog-post">
 

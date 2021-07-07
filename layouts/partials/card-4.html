@@ -3,7 +3,7 @@
     {{ if (isset .Params "image" ) }}
     <img class="card-img-top" src="{{ .Site.Params.home }}{{ .Params.image }}" alt="Card image cap">
     {{ end }}
-    <h3 class="card-title"><a href="{{.URL}}">{{if eq (len .Title) 0}}{{ .URL }}{{ else }}{{ .Title }}{{end}}</a></h3>
+    <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ partial "title_or_url.html" . }}</a></h3>
     <div class="card-body">
       <p class="card-text">{{.Params.description}}</p>
     </div>

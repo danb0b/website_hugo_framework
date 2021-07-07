@@ -1,0 +1,12 @@
+      <div class="col d-flex align-items-start">
+        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+          <i class="bi {{ .Params.icon }}"></i>
+        </div>
+        <div>
+          <h2>{{ partial "title_or_url.html" . }}</h2>
+          <p>{{ .Params.description }}</p>
+          <a href="{{ .RelPermalink }}" class="btn btn-primary">
+            Go to {{ partial "title_or_url.html" . }}
+          </a>
+        </div>
+      </div>
