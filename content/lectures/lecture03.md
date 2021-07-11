@@ -1,8 +1,8 @@
 ---
 title: Lecture 3
-subtitle: _**No Class**_
-description: MLK Day
+subtitle: No Class
+description: No Class -- MLK Day
 lecture: "03"
 ---
 
-MLK Day
+No Class -- MLK Day
