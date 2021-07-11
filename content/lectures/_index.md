@@ -1,4 +1,4 @@
 ---
 title: Lectures
-icon: bi-card-heading
+icon: bi-megaphone
 ---

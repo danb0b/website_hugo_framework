@@ -1,6 +1,6 @@
 ---
 title: Course Topics
-description: All the different course topics by category
-icon: bi-card-heading
+icon: bi-book
 ---
 
+This page lists all the course topics covered in _Foldable Robotics_

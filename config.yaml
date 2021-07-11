@@ -9,26 +9,12 @@ enableInlineShortcodes: true
 
 params: 
   menu:
-    - name: Modules
-      link: /modules
-      external: false
-    - name: Course Calendar
-      link: /calendar
-      external: false
-    - name: Tutorials
-      link: /tutorials
-      external: false
-    - name: Assignments
-      link: /assignments
-      external: false
-    - name: Canvas Calendar
-      link: https://canvas.asu.edu/calendar#view_name=month
-      external: true
     - name: Canvas
-      link: https://canvas.asu.edu/courses/71725
+      link: https://canvas.asu.edu/
       external: true
   author: Daniel M. Aukes
   home: ""
+  description: Making better Foldable Robots
 
 ignorefiles:
   - "content/modules/biomechanics/_drafts"

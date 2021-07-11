@@ -1,0 +1,26 @@
+{{ define "title" }}
+{{ .Page.Title }} | {{ .Site.Title}}
+{{ end }}
+
+{{ define "main" }}
+
+<main class="container">
+  <h1>Lecture Section: {{ .Title }}</h1>
+
+
+<table>
+<tr>
+<th>Lecture</th> <th>Name </th> <th></th>
+</tr>
+{{ $pages:= sort .Pages "Params.lecture" }}
+{{ range $pages }}
+<tr>
+<td>{{ .Page.Params.lecture }}</td><td><a href="{{ .RelPermalink }}">{{ .Title }}: {{ .Page.Params.subtitle }}</a></td><td>{{ .Page.Params.description }}</td>
+</tr>
+{{ end }}
+</table>
+   {{ .Content }}
+
+</main>
+
+{{ end }}
