@@ -4,7 +4,6 @@ csl: ../../project/ieee.csl
 title: Foldable Robotics Background
 type: submodule
 description: A short history of foldable robotics
-bibFile: data/bib.json # path relative to project root
 ---
 
 # Foldable Robotics Background

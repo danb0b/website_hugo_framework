@@ -3,7 +3,6 @@ title: Singularities and Solver Problems
 type: submodule
 bibliography: ../../project/bibliography.bib
 csl: ../../project/ieee.csl
-bibFile: data/bib.json # path relative to project root
 ---
 
 # Singularities and Solver Problems

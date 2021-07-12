@@ -4,7 +4,6 @@ csl: ../..//project/ieee.csl
 title: Foldable Robotics Timeline
 type: submodule
 description: A visual timeline of foldable robotics
-bibFile: data/bib.json # path relative to project root
 ---
 # Foldable Robotics Timeline
 

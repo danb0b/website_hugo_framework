@@ -9,7 +9,6 @@ module: biomechanics
 type: assignment
 layout: page
 overlay_text: draft
-bibFile: data/bib.json # path relative to project root
 ---
 
 # Biomechanics Background and Initial Specifications
