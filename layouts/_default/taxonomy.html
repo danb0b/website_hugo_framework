@@ -6,7 +6,7 @@
 
 <main class="container">
   <div class="row g-5">
-  <h1>Default Taxonomy: {{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>
     {{ range .Pages }}
         {{ .Render "summary"}}
     {{ end }}
