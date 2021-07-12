@@ -5,6 +5,8 @@
 {{ define "main" }}
 
 <main class="container">
+<h1>{{.Title}}</h1>
+
 {{ $submodules := where .Pages "Params.type" "=" "submodule" }}
 {{ $tutorials := where .Pages "Params.type" "=" "tutorial" }}
 {{ $others := where .Pages "Params.type" "=" nil }}
