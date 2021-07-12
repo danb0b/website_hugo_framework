@@ -2,6 +2,9 @@ baseURL: https://danaukes.com/
 languageCode: en-us
 title: Foldable Robotics
 
+theme: 
+  - "hugo-cite"
+
 enableInlineShortcodes: true
 
 params: 
