@@ -1501,6 +1501,52 @@
   "type": "article-journal"
  },
  {
+  "DOI": "10.1126/science.1252610",
+  "ISBN": "1095-9203 (Electronic)\\n0036-8075 (Linking)",
+  "ISSN": "0036-8075, 1095-9203",
+  "PMID": "25104380",
+  "URL": "http://www.sciencemag.org/cgi/doi/10.1126/science.1252610 http://science.sciencemag.org/content/345/6197/644",
+  "abstract": "",
+  "author": [
+   {
+    "family": "Felton",
+    "given": "S."
+   },
+   {
+    "family": "Tolley",
+    "given": "M."
+   },
+   {
+    "family": "Demaine",
+    "given": "E."
+   },
+   {
+    "family": "Rus",
+    "given": "D."
+   },
+   {
+    "family": "Wood",
+    "given": "R."
+   }
+  ],
+  "container-title": "Science",
+  "id": "Felton2014",
+  "issue": "6197",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     8,
+     1
+    ]
+   ]
+  },
+  "page": "644-646",
+  "title": "<span class=\"nocase\">A method for building self-folding machines</span>",
+  "type": "article-journal",
+  "volume": "345"
+ },
+ {
   "DOI": "10.1088/0960-1317/25/8/085004",
   "ISBN": "6173847892",
   "ISSN": "0960-1317",
@@ -4580,6 +4626,46 @@
   "volume": "21"
  },
  {
+  "DOI": "10.1117/12.2045561",
+  "ISBN": "9780819499837",
+  "ISSN": "1996756X",
+  "URL": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2045561",
+  "abstract": "",
+  "author": [
+   {
+    "family": "Peraza-Hernandez",
+    "given": "Edwin a."
+   },
+   {
+    "family": "Frei",
+    "given": "Katherine R."
+   },
+   {
+    "family": "Hartl",
+    "given": "Darren J."
+   },
+   {
+    "family": "Lagoudas",
+    "given": "Dimitris C."
+   }
+  ],
+  "id": "Peraza2014a",
+  "issued": {
+   "date-parts": [
+    [
+     2014,
+     1,
+     1
+    ]
+   ]
+  },
+  "keyword": "finite element,morphing structures,optimization,origami,origami design,self-folding,smas",
+  "page": "90571G",
+  "title": "<span class=\"nocase\">Folding patterns and shape optimization using SMA-based self-folding laminates</span>",
+  "type": "article-journal",
+  "volume": "9057"
+ },
+ {
   "DOI": "10.1109/IROS.2011.6048800",
   "ISBN": "9781612844541",
   "ISSN": "2153-0858",
@@ -5041,6 +5127,33 @@
   "title": "<span class=\"nocase\">Towards a 3g crawling robot through the integration of microrobot technologies</span>",
   "type": "article-journal",
   "volume": "2006"
+ },
+ {
+  "abstract": "",
+  "author": [
+   {
+    "family": "Schenk",
+    "given": "Mark"
+   },
+   {
+    "family": "Guest",
+    "given": "Simon D"
+   }
+  ],
+  "container-title": "Origami 5: Fifth international meeting of origami science, mathematics, and education.(5OSME)",
+  "id": "Schenk2011",
+  "issued": {
+   "date-parts": [
+    [
+     2011,
+     1,
+     1
+    ]
+   ]
+  },
+  "page": "291-303",
+  "title": "Origami Folding : A Structural Engineering Approach",
+  "type": "paper-conference"
  },
  {
   "DOI": "10.1007/s004220000181",

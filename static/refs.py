@@ -31,7 +31,7 @@ for path,dirs,files in os.walk(path0):
 
 for file in all_files:
     # if 'foldable-background' in file:
-    print(file)
+    # print(file)
     with open(file,'rb') as f:
         sb=f.read()
     s = sb.decode()
@@ -94,7 +94,7 @@ for item in all_refs:
                 pass
             my_y.append(ref)
 
-path3 = './bib.json'    
+path3 = '../data/bib.json'    
 path3 = os.path.normpath(os.path.expanduser(path3))
 
 with open(path3,'w') as f:

@@ -2836,6 +2836,17 @@ references:
   genre: PhD thesis
   URL: http://purl.stanford.edu/hb110js8103
 
+- id: Aukes2019
+  type: article-journal
+  author:
+  - family: Aukes
+    given: Daniel M.
+  issued:
+  - year: 2019
+  title: IDEAlab Download Page
+  container-title: http://idealab.asu.edu/download
+  URL: http://idealab.asu.edu/download
+
 - id: Aukes2014e
   type: paper-conference
   author:
@@ -2847,17 +2858,6 @@ references:
     Laminate Devices</span>'
   container-title: 'Robot makers: The future of digital rapid design and fabrication
     of robots'
-
-- id: Aukes2019
-  type: article-journal
-  author:
-  - family: Aukes
-    given: Daniel M.
-  issued:
-  - year: 2019
-  title: IDEAlab Download Page
-  container-title: http://idealab.asu.edu/download
-  URL: http://idealab.asu.edu/download
 
 - id: Aukes2019a
   type: article-journal
@@ -2937,56 +2937,6 @@ references:
   title: Mechanisms For Steering Robotic Fish
   container-title: US Provisional Patent
 
-- id: Aukes2014b
-  type: paper-conference
-  author:
-  - family: Aukes
-    given: Daniel M.
-  - family: Wood
-    given: Robert J.
-  issued:
-  - year: 2014
-  title: '<span class="nocase">PopupCAD: a New Design Tool for Developing Self-folding
-    Devices</span>'
-  container-title: MRS spring meeting
-  publisher-place: San Francisco
-
-- id: Aukes2014a
-  type: paper-conference
-  author:
-  - family: Aukes
-    given: Daniel M.
-  - family: Wood
-    given: Robert J.
-  issued:
-  - year: 2014
-    month: 9
-  title: <span class="nocase">Algorithms for Rapid Development of Inherently-Manufacturable
-    Laminate Devices</span>
-  container-title: 'Volume 1: Development and characterization of multifunctional
-    materials; modeling, simulation and control of adaptive systems; structural health
-    monitoring; keynote presentation'
-  publisher: ASME
-  publisher-place: Newport, RI, USA
-  page: V001T01A005
-  volume: '1'
-  URL: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/SMASIS2014-7442
-  DOI: 10.1115/SMASIS2014-7442
-  ISBN: 978-0-7918-4614-8
-
-- id: Aukes2013b
-  type: paper-conference
-  author:
-  - family: Aukes
-    given: Daniel M.
-  - family: Wood
-    given: Robert J.
-  issued:
-  - year: 2013
-  title: '<span class="nocase">popupCAD: A New Design Tool for Rapid Development of
-    Printable Robots</span>'
-  container-title: 2013 review for printable robots expeditions team
-
 - id: Aukes2015a
   type: paper-conference
   author:
@@ -3024,6 +2974,56 @@ references:
   keyword: design,dynamics,finite element method,manufacturing,robotics,stiffness
   URL: http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2177576
   DOI: 10.1117/12.2177576
+
+- id: Aukes2013b
+  type: paper-conference
+  author:
+  - family: Aukes
+    given: Daniel M.
+  - family: Wood
+    given: Robert J.
+  issued:
+  - year: 2013
+  title: '<span class="nocase">popupCAD: A New Design Tool for Rapid Development of
+    Printable Robots</span>'
+  container-title: 2013 review for printable robots expeditions team
+
+- id: Aukes2014b
+  type: paper-conference
+  author:
+  - family: Aukes
+    given: Daniel M.
+  - family: Wood
+    given: Robert J.
+  issued:
+  - year: 2014
+  title: '<span class="nocase">PopupCAD: a New Design Tool for Developing Self-folding
+    Devices</span>'
+  container-title: MRS spring meeting
+  publisher-place: San Francisco
+
+- id: Aukes2014a
+  type: paper-conference
+  author:
+  - family: Aukes
+    given: Daniel M.
+  - family: Wood
+    given: Robert J.
+  issued:
+  - year: 2014
+    month: 9
+  title: <span class="nocase">Algorithms for Rapid Development of Inherently-Manufacturable
+    Laminate Devices</span>
+  container-title: 'Volume 1: Development and characterization of multifunctional
+    materials; modeling, simulation and control of adaptive systems; structural health
+    monitoring; keynote presentation'
+  publisher: ASME
+  publisher-place: Newport, RI, USA
+  page: V001T01A005
+  volume: '1'
+  URL: http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?doi=10.1115/SMASIS2014-7442
+  DOI: 10.1115/SMASIS2014-7442
+  ISBN: 978-0-7918-4614-8
 
 - id: Aukes2014
   type: article-journal
@@ -3947,6 +3947,27 @@ references:
   ISBN: 1099-0542
   ISSN: '10613773'
 
+- id: Balasubramanian2012
+  type: article-journal
+  author:
+  - family: Balasubramanian
+    given: Ravi
+  - family: Belter
+    given: Joseph T.
+  - family: Dollar
+    given: Aaron M.
+  issued:
+  - year: 2012
+  title: <span class="nocase">Disturbance Response of Two-Link Underactuated Serial-Link
+    Chains</span>
+  container-title: Journal of Mechanisms and Robotics
+  page: '021013'
+  volume: '4'
+  issue: '2'
+  URL: http://link.aip.org/link/JMROA6/v4/i2/p021013/s1&Agg=doi http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=1484758
+  DOI: 10.1115/1.4006279
+  ISSN: '19424302'
+
 - id: Balasubramanian2010
   type: paper-conference
   author:
@@ -3968,27 +3989,6 @@ references:
     http://link.aip.org/link/ASMECP/v2010/i44106/p175/s1&Agg=doi
   DOI: 10.1115/DETC2010-29004
   ISBN: 978-0-7918-4410-6
-
-- id: Balasubramanian2012
-  type: article-journal
-  author:
-  - family: Balasubramanian
-    given: Ravi
-  - family: Belter
-    given: Joseph T.
-  - family: Dollar
-    given: Aaron M.
-  issued:
-  - year: 2012
-  title: <span class="nocase">Disturbance Response of Two-Link Underactuated Serial-Link
-    Chains</span>
-  container-title: Journal of Mechanisms and Robotics
-  page: '021013'
-  volume: '4'
-  issue: '2'
-  URL: http://link.aip.org/link/JMROA6/v4/i2/p021013/s1&Agg=doi http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=1484758
-  DOI: 10.1115/1.4006279
-  ISSN: '19424302'
 
 - id: Balasubramanian2011
   type: paper-conference
@@ -4148,6 +4148,24 @@ references:
   DOI: 10.1115/1.4041200
   ISSN: 1942-4302
 
+- id: Baraff1994
+  type: paper-conference
+  author:
+  - family: Baraff
+    given: David
+  issued:
+  - year: 1994
+  title: <span class="nocase">Fast contact force computation for nonpenetrating rigid
+    bodies</span>
+  container-title: Proceedings of the 21st annual conference on computer graphics
+    and interactive techniques - siggraph ’94
+  publisher: ACM Press
+  publisher-place: New York, New York, USA
+  page: 23-34
+  URL: http://dl.acm.org/citation.cfm?id=192168 http://portal.acm.org/citation.cfm?doid=192161.192168
+  DOI: 10.1145/192161.192168
+  ISBN: '0897916670'
+
 - id: Baraff1996
   type: paper-conference
   author:
@@ -4194,24 +4212,6 @@ references:
   genre: PhD thesis
   URL: http://hdl.handle.net/1813/7115 http://ecommons.library.cornell.edu/handle/1813/7115
     http://techreports.library.cornell.edu:8081/Dienst/UI/1.0/Display/cul.cs/TR92-1275
-
-- id: Baraff1994
-  type: paper-conference
-  author:
-  - family: Baraff
-    given: David
-  issued:
-  - year: 1994
-  title: <span class="nocase">Fast contact force computation for nonpenetrating rigid
-    bodies</span>
-  container-title: Proceedings of the 21st annual conference on computer graphics
-    and interactive techniques - siggraph ’94
-  publisher: ACM Press
-  publisher-place: New York, New York, USA
-  page: 23-34
-  URL: http://dl.acm.org/citation.cfm?id=192168 http://portal.acm.org/citation.cfm?doid=192161.192168
-  DOI: 10.1145/192161.192168
-  ISBN: '0897916670'
 
 - id: Baran2007
   type: article-journal
@@ -5625,20 +5625,22 @@ references:
   container-title: Hand, The
   URL: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.104.7899
 
-- id: Bicchi1995
+- id: Bicchi1994
   type: article-journal
   author:
   - family: Bicchi
     given: A.
   issued:
-  - year: 1995
-  title: <span class="nocase">On the closure properties of robotic grasping</span>
-  container-title: The International Journal of Robotics Research
-  publisher: Multimedia Archives
-  page: '319'
-  volume: '14'
-  issue: '4'
-  URL: http://ijr.sagepub.com/cgi/content/abstract/14/4/319
+  - year: 1994
+  title: <span class="nocase">On the problem of decomposing grasp and manipulation
+    forces in multiple whole-limb manipulation</span>
+  container-title: Robotics and autonomous systems
+  publisher: Elsevier
+  page: 127-147
+  volume: '13'
+  issue: '2'
+  keyword: force distribution,grasping,power grasping,robot hands,whole-arm manipulation
+  URL: http://www.sciencedirect.com/science/article/pii/0921889094900558
 
 - id: Bicchi_dexterity2000
   type: article-journal
@@ -5673,22 +5675,20 @@ references:
   DOI: 10.1109/70.897777
   ISSN: 1042296X
 
-- id: Bicchi1994
+- id: Bicchi1995
   type: article-journal
   author:
   - family: Bicchi
     given: A.
   issued:
-  - year: 1994
-  title: <span class="nocase">On the problem of decomposing grasp and manipulation
-    forces in multiple whole-limb manipulation</span>
-  container-title: Robotics and autonomous systems
-  publisher: Elsevier
-  page: 127-147
-  volume: '13'
-  issue: '2'
-  keyword: force distribution,grasping,power grasping,robot hands,whole-arm manipulation
-  URL: http://www.sciencedirect.com/science/article/pii/0921889094900558
+  - year: 1995
+  title: <span class="nocase">On the closure properties of robotic grasping</span>
+  container-title: The International Journal of Robotics Research
+  publisher: Multimedia Archives
+  page: '319'
+  volume: '14'
+  issue: '4'
+  URL: http://ijr.sagepub.com/cgi/content/abstract/14/4/319
 
 - id: Bicchi2004
   type: article-journal
@@ -5835,25 +5835,6 @@ references:
   URL: http://link.aip.org/link/APCPCS/v387/i1/p779/s1&Agg=doi
   DOI: 10.1063/1.52080
 
-- id: Biewener1990
-  type: article-journal
-  author:
-  - family: Biewener
-    given: a a
-  issued:
-  - year: 1990
-  title: <span class="nocase">Biomechanics of mammalian terrestrial locomotion.</span>
-  container-title: Science (New York, N.Y.)
-  page: 1097-1103
-  volume: '250'
-  issue: '4984'
-  abstract: Mammalian skeletons experience peak locomotor stresses (force per area)
-    that are 25 to 50
-  DOI: 10.1126/science.2251499
-  ISBN: '2819901123'
-  ISSN: 0036-8075
-  PMID: '2251499'
-
 - id: Biewener1989
   type: article-journal
   author:
@@ -5885,6 +5866,25 @@ references:
   ISBN: 0036-8075 (Print)
   ISSN: 0036-8075
   PMID: '2740914'
+
+- id: Biewener1990
+  type: article-journal
+  author:
+  - family: Biewener
+    given: a a
+  issued:
+  - year: 1990
+  title: <span class="nocase">Biomechanics of mammalian terrestrial locomotion.</span>
+  container-title: Science (New York, N.Y.)
+  page: 1097-1103
+  volume: '250'
+  issue: '4984'
+  abstract: Mammalian skeletons experience peak locomotor stresses (force per area)
+    that are 25 to 50
+  DOI: 10.1126/science.2251499
+  ISBN: '2819901123'
+  ISSN: 0036-8075
+  PMID: '2251499'
 
 - id: Biewener1999
   type: article-journal
@@ -6156,24 +6156,6 @@ references:
   DOI: 10.1177/0278364906068942
   ISSN: 0278-3649
 
-- id: Birglen2010
-  type: article-journal
-  author:
-  - family: Birglen
-    given: L.
-  issued:
-  - year: 2010
-    month: 12
-  title: '<span class="nocase">From flapping wings to underactuated fingers and beyond:
-    a broad look to self-adaptive mechanisms</span>'
-  container-title: Mechanical Sciences
-  page: 5-12
-  volume: '1'
-  issue: '1'
-  URL: http://www.mech-sci.net/1/5/2010/
-  DOI: 10.5194/ms-1-5-2010
-  ISSN: 2191-916X
-
 - id: Birglen2011
   type: article-journal
   author:
@@ -6190,6 +6172,24 @@ references:
   issue: '1'
   URL: http://www.mech-sci.net/2/41/2011/
   DOI: 10.5194/ms-2-41-2011
+  ISSN: 2191-916X
+
+- id: Birglen2010
+  type: article-journal
+  author:
+  - family: Birglen
+    given: L.
+  issued:
+  - year: 2010
+    month: 12
+  title: '<span class="nocase">From flapping wings to underactuated fingers and beyond:
+    a broad look to self-adaptive mechanisms</span>'
+  container-title: Mechanical Sciences
+  page: 5-12
+  volume: '1'
+  issue: '1'
+  URL: http://www.mech-sci.net/1/5/2010/
+  DOI: 10.5194/ms-1-5-2010
   ISSN: 2191-916X
 
 - id: Birglen2004
@@ -6227,33 +6227,6 @@ references:
   DOI: 10.1109/ROBOT.2003.1241746
   ISBN: 0-7803-7736-2
 
-- id: Birglen2009
-  type: article-journal
-  author:
-  - family: Birglen
-    given: Lionel
-  issued:
-  - year: 2009
-  title: <span class="nocase">Type Synthesis of Linkage-Driven Self-Adaptive Fingers</span>
-  container-title: Journal of Mechanisms and Robotics
-  publisher: American Society of Mechanical Engineers
-  page: '021010'
-  volume: '1'
-  issue: '2'
-  URL: http://link.aip.org/link/JMROA6/v1/i2/p021010/s1&Agg=doi http://cat.inist.fr/?aModele=afficheN&cpsidt=21429754
-  DOI: 10.1115/1.3046139
-  ISSN: '19424302'
-
-- id: Birglen2006e
-  type: article-journal
-  author:
-  - family: Birglen
-    given: Lionel
-  issued:
-  - year: 2006
-  title: DETC2006-99048
-  container-title: Engineering Conference
-
 - id: Birglen2006
   type: paper-conference
   author:
@@ -6272,6 +6245,33 @@ references:
   DOI: 10.1115/DETC2006-99048
   ISBN: 0-7918-4256-8
 
+- id: Birglen2006e
+  type: article-journal
+  author:
+  - family: Birglen
+    given: Lionel
+  issued:
+  - year: 2006
+  title: DETC2006-99048
+  container-title: Engineering Conference
+
+- id: Birglen2009
+  type: article-journal
+  author:
+  - family: Birglen
+    given: Lionel
+  issued:
+  - year: 2009
+  title: <span class="nocase">Type Synthesis of Linkage-Driven Self-Adaptive Fingers</span>
+  container-title: Journal of Mechanisms and Robotics
+  publisher: American Society of Mechanical Engineers
+  page: '021010'
+  volume: '1'
+  issue: '2'
+  URL: http://link.aip.org/link/JMROA6/v1/i2/p021010/s1&Agg=doi http://cat.inist.fr/?aModele=afficheN&cpsidt=21429754
+  DOI: 10.1115/1.3046139
+  ISSN: '19424302'
+
 - id: Birglen2006b
   type: article-journal
   author:
@@ -6289,26 +6289,6 @@ references:
   URL: http://www.professeurs.polymtl.ca/lionel.birglen/Shared/JMD06.pdf http://link.aip.org/link/JMDEDB/v128/i2/p356/s1&Agg=doi
   DOI: 10.1115/1.2159029
   ISSN: '10500472'
-
-- id: Birglen2006d
-  type: paper-conference
-  author:
-  - family: Birglen
-    given: Lionel
-  - family: Gosselin
-    given: Clément M.
-  issued:
-  - year: 2006
-  title: '<span class="nocase">Optimally Unstable Underactuated Gripper: Synthesis
-    and Applications</span>'
-  container-title: 'Volume 2: 30th annual mechanisms and robotics conference, parts
-    a and b'
-  publisher: ASME
-  page: 3-11
-  volume: '2006'
-  URL: http://link.aip.org/link/ASMECP/v2006/i42568/p3/s1&Agg=doi
-  DOI: 10.1115/DETC2006-99047
-  ISBN: 0-7918-4256-8
 
 - id: Birglen2006c
   type: article-journal
@@ -6330,6 +6310,26 @@ references:
   URL: http://linkinghub.elsevier.com/retrieve/pii/S0094114X05001667
   DOI: 10.1016/j.mechmachtheory.2005.10.004
   ISSN: 0094114X
+
+- id: Birglen2006d
+  type: paper-conference
+  author:
+  - family: Birglen
+    given: Lionel
+  - family: Gosselin
+    given: Clément M.
+  issued:
+  - year: 2006
+  title: '<span class="nocase">Optimally Unstable Underactuated Gripper: Synthesis
+    and Applications</span>'
+  container-title: 'Volume 2: 30th annual mechanisms and robotics conference, parts
+    a and b'
+  publisher: ASME
+  page: 3-11
+  volume: '2006'
+  URL: http://link.aip.org/link/ASMECP/v2006/i42568/p3/s1&Agg=doi
+  DOI: 10.1115/DETC2006-99047
+  ISBN: 0-7918-4256-8
 
 - id: Birglen2004a
   type: article-journal
@@ -7485,6 +7485,23 @@ references:
   DOI: 10.1016/j.cma.2005.03.010
   ISSN: '00457825'
 
+- id: Borst1999
+  type: paper-conference
+  author:
+  - family: Borst
+    given: C.
+  - family: Fischer
+    given: M.
+  - family: Hirzinger
+    given: G.
+  issued:
+  - year: 1999
+  title: <span class="nocase">A fast and robust grasp planner for arbitrary 3D objects</span>
+  container-title: IEEE international conference on robotics and automation
+  publisher: INSTITUTE OF ELECTRICAL ENGINEERS INC (IEEE)
+  page: 1890-1896
+  URL: http://www.dlr.de/rm/en/Portaldata/52/Resources/dokumente/hand/icra99robust.pdf
+
 - id: Borst2004
   type: paper-conference
   author:
@@ -7503,23 +7520,6 @@ references:
   publisher: Citeseer
   page: 319-325
   URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.6776&rep=rep1&type=pdf
-
-- id: Borst1999
-  type: paper-conference
-  author:
-  - family: Borst
-    given: C.
-  - family: Fischer
-    given: M.
-  - family: Hirzinger
-    given: G.
-  issued:
-  - year: 1999
-  title: <span class="nocase">A fast and robust grasp planner for arbitrary 3D objects</span>
-  container-title: IEEE international conference on robotics and automation
-  publisher: INSTITUTE OF ELECTRICAL ENGINEERS INC (IEEE)
-  page: 1890-1896
-  URL: http://www.dlr.de/rm/en/Portaldata/52/Resources/dokumente/hand/icra99robust.pdf
 
 - id: Borutzky2010
   type: article-journal
@@ -7855,37 +7855,18 @@ references:
   title: IDETC2019-98103 AND MULTI-STEP RAPID FABRICATION PROCESSES
   page: 1-11
 
-- id: Brauer2018
-  type: paper-conference
+- id: Brauer2021
+  type: article-journal
   author:
   - family: Brauer
     given: Cole
   - family: Aukes
     given: Daniel M.
   issued:
-  - year: 2018
-  title: <span class="nocase">Automated Process Planning for Multi Material Manufacturing</span>
-  container-title: 2018 fall furi symposium
-
-- id: Brauer2020
-  type: paper-conference
-  author:
-  - family: Brauer
-    given: Cole
-  - family: Aukes
-    given: Daniel M.
-  issued:
-  - year: 2020
-    month: 11
-  title: <span class="nocase">Automated Generation of Multi-Material Structures Using
-    the VoxelFuse Framework</span>
-  container-title: Symposium on computational fabrication
-  publisher: ACM
-  publisher-place: New York, NY, USA
-  page: 1-8
-  URL: https://dl.acm.org/doi/10.1145/3424630.3425417
-  DOI: 10.1145/3424630.3425417
-  ISBN: '9781450381703'
+  - year: 2021
+  title: <span class="nocase">Comparison Of Graded Material Transitions For Low-cost
+    Robotics Applications</span>
+  container-title: (submitted)
 
 - id: Brauer2019b
   type: paper-conference
@@ -7918,18 +7899,37 @@ references:
   DOI: 10.1115/DETC2019-98103
   ISBN: 978-0-7918-5918-6
 
-- id: Brauer2021
-  type: article-journal
+- id: Brauer2018
+  type: paper-conference
   author:
   - family: Brauer
     given: Cole
   - family: Aukes
     given: Daniel M.
   issued:
-  - year: 2021
-  title: <span class="nocase">Comparison Of Graded Material Transitions For Low-cost
-    Robotics Applications</span>
-  container-title: (submitted)
+  - year: 2018
+  title: <span class="nocase">Automated Process Planning for Multi Material Manufacturing</span>
+  container-title: 2018 fall furi symposium
+
+- id: Brauer2020
+  type: paper-conference
+  author:
+  - family: Brauer
+    given: Cole
+  - family: Aukes
+    given: Daniel M.
+  issued:
+  - year: 2020
+    month: 11
+  title: <span class="nocase">Automated Generation of Multi-Material Structures Using
+    the VoxelFuse Framework</span>
+  container-title: Symposium on computational fabrication
+  publisher: ACM
+  publisher-place: New York, NY, USA
+  page: 1-8
+  URL: https://dl.acm.org/doi/10.1145/3424630.3425417
+  DOI: 10.1145/3424630.3425417
+  ISBN: '9781450381703'
 
 - id: Braun2009
   type: article-journal
@@ -9441,7 +9441,7 @@ references:
   issue: May
   ISBN: '0780372727'
 
-- id: Carlson2017a
+- id: Carlson2018
   type: paper-conference
   author:
   - family: Carlson
@@ -9449,9 +9449,9 @@ references:
   - family: Aukes
     given: Daniel M.
   issued:
-  - year: 2017
+  - year: 2018
   title: Laminate Underactuated Robotic Hand
-  container-title: 2017 fall furi symposium
+  container-title: 2018 southwest robotics symposium (poster)
 
 - id: Carlson2017
   type: paper-conference
@@ -9465,7 +9465,7 @@ references:
   title: Laminate Underactuated Robotic Hand
   container-title: 2018 spring furi symposium
 
-- id: Carlson2018
+- id: Carlson2017a
   type: paper-conference
   author:
   - family: Carlson
@@ -9473,9 +9473,9 @@ references:
   - family: Aukes
     given: Daniel M.
   issued:
-  - year: 2018
+  - year: 2017
   title: Laminate Underactuated Robotic Hand
-  container-title: 2018 southwest robotics symposium (poster)
+  container-title: 2017 fall furi symposium
 
 - id: Carlson1999
   type: article-journal
@@ -11481,25 +11481,6 @@ references:
   DOI: 10.1109/IROS.2013.6696901
   ISBN: 978-1-4673-6358-7
 
-- id: chirarattananon2016perching
-  type: article-journal
-  author:
-  - family: Chirarattananon
-    given: Pakpong
-  - family: Ma
-    given: Kevin Y
-  - family: Wood
-    given: Robert J
-  issued:
-  - year: 2016
-  title: <span class="nocase">Perching with a robotic insect using adaptive tracking
-    control and iterative learning control</span>
-  container-title: The International Journal of Robotics Research
-  publisher: 'SAGE Publications Sage UK: London, England'
-  page: 1185-1206
-  volume: '35'
-  issue: '10'
-
 - id: chirarattananon2014adaptive
   type: article-journal
   author:
@@ -11518,6 +11499,25 @@ references:
   page: '25004'
   volume: '9'
   issue: '2'
+
+- id: chirarattananon2016perching
+  type: article-journal
+  author:
+  - family: Chirarattananon
+    given: Pakpong
+  - family: Ma
+    given: Kevin Y
+  - family: Wood
+    given: Robert J
+  issued:
+  - year: 2016
+  title: <span class="nocase">Perching with a robotic insect using adaptive tracking
+    control and iterative learning control</span>
+  container-title: The International Journal of Robotics Research
+  publisher: 'SAGE Publications Sage UK: London, England'
+  page: 1185-1206
+  volume: '35'
+  issue: '10'
 
 - id: Chiu2008
   type: article-journal
@@ -12062,6 +12062,27 @@ references:
   publisher: Citeseer
   URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.9884&rep=rep1&type=pdf
 
+- id: Ciocarlie2009
+  type: paper-conference
+  author:
+  - family: Ciocarlie
+    given: Matei
+  - family: Allen
+    given: Peter
+  issued:
+  - year: 2009
+    month: 10
+  title: <span class="nocase">A design and analysis tool for underactuated compliant
+    hands</span>
+  container-title: 2009 ieee/rsj international conference on intelligent robots and
+    systems
+  publisher: IEEE
+  page: 5234-5239
+  keyword: Contact Modelling,Grasping,Underactuated Robots
+  URL: http://www1.cs.columbia.edu/$\sim$allen/PAPERS/underactuatediros2009.pdf http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5354089
+  DOI: 10.1109/IROS.2009.5354089
+  ISBN: 978-1-4244-3803-7
+
 - id: Ciocarlie2010
   type: article-journal
   author:
@@ -12084,27 +12105,6 @@ references:
   URL: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5509793
   DOI: 10.1109/ROBOT.2010.5509793
   ISBN: 978-1-4244-5038-1
-
-- id: Ciocarlie2009
-  type: paper-conference
-  author:
-  - family: Ciocarlie
-    given: Matei
-  - family: Allen
-    given: Peter
-  issued:
-  - year: 2009
-    month: 10
-  title: <span class="nocase">A design and analysis tool for underactuated compliant
-    hands</span>
-  container-title: 2009 ieee/rsj international conference on intelligent robots and
-    systems
-  publisher: IEEE
-  page: 5234-5239
-  keyword: Contact Modelling,Grasping,Underactuated Robots
-  URL: http://www1.cs.columbia.edu/$\sim$allen/PAPERS/underactuatediros2009.pdf http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5354089
-  DOI: 10.1109/IROS.2009.5354089
-  ISBN: 978-1-4244-3803-7
 
 - id: Ciocarlie2012
   type: no-type
@@ -15773,51 +15773,6 @@ references:
   URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5334%7B&%7Damp;rep=rep1%7B&%7Damp;type=pdf
     http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.5334&rep=rep1&type=pdf
 
-- id: Dollar2007
-  type: paper-conference
-  author:
-  - family: Dollar
-    given: A. M.
-  - family: Howe
-    given: R. D.
-  issued:
-  - year: 2007
-  title: <span class="nocase">Simple, robust autonomous grasping in unstructured environments</span>
-  container-title: IEEE intl. Conf. On robotics and automation
-  publisher: Citeseer
-  URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.3648&rep=rep1&type=pdf
-
-- id: Dollar2006b
-  type: article-journal
-  author:
-  - family: Dollar
-    given: A. M.
-  - family: Howe
-    given: R. D.
-  issued:
-  - year: 2006
-  title: <span class="nocase">A robust compliant grasper via shape deposition manufacturing</span>
-  container-title: IEEE/ASME Transactions on Mechatronics
-  publisher: Citeseer
-  page: 154-161
-  volume: '11'
-  issue: '2'
-  URL: http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:A+robust+compliant+grasper+via+shape+deposition+manufacturing#0
-
-- id: Dollar2006a
-  type: paper-conference
-  author:
-  - family: Dollar
-    given: A. M.
-  - family: Howe
-    given: R. D.
-  issued:
-  - year: 2006
-  title: <span class="nocase">Designing Robust Robotic Graspers for Unstructured Environments</span>
-  container-title: 'Proceedings of the workshop on manipulation for human environments,
-    2006 robotics: Science and systems conference'
-  URL: http://biorobotics.harvard.edu/pubs/DollarRSS2006.pdf
-
 - id: Dollar2009b
   type: article-journal
   author:
@@ -15850,6 +15805,51 @@ references:
   URL: http://www.springerlink.com/index/168736P3255827T0.pdf http://link.springer.com/10.1007/978-3-642-00196-3
   DOI: 10.1007/978-3-642-00196-3
   ISBN: 978-3-642-00195-6
+
+- id: Dollar2006b
+  type: article-journal
+  author:
+  - family: Dollar
+    given: A. M.
+  - family: Howe
+    given: R. D.
+  issued:
+  - year: 2006
+  title: <span class="nocase">A robust compliant grasper via shape deposition manufacturing</span>
+  container-title: IEEE/ASME Transactions on Mechatronics
+  publisher: Citeseer
+  page: 154-161
+  volume: '11'
+  issue: '2'
+  URL: http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:A+robust+compliant+grasper+via+shape+deposition+manufacturing#0
+
+- id: Dollar2006a
+  type: paper-conference
+  author:
+  - family: Dollar
+    given: A. M.
+  - family: Howe
+    given: R. D.
+  issued:
+  - year: 2006
+  title: <span class="nocase">Designing Robust Robotic Graspers for Unstructured Environments</span>
+  container-title: 'Proceedings of the workshop on manipulation for human environments,
+    2006 robotics: Science and systems conference'
+  URL: http://biorobotics.harvard.edu/pubs/DollarRSS2006.pdf
+
+- id: Dollar2007
+  type: paper-conference
+  author:
+  - family: Dollar
+    given: A. M.
+  - family: Howe
+    given: R. D.
+  issued:
+  - year: 2007
+  title: <span class="nocase">Simple, robust autonomous grasping in unstructured environments</span>
+  container-title: IEEE intl. Conf. On robotics and automation
+  publisher: Citeseer
+  URL: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.3648&rep=rep1&type=pdf
 
 - id: Dollar2007a
   type: paper-conference
@@ -16738,35 +16738,15 @@ references:
   ISSN: '00220949'
   PMID: '10460729'
 
-- id: Drumwright2011
-  type: chapter
+- id: MobyWebsite
+  type: no-type
   author:
   - family: Drumwright
     given: Evan
-  editor:
-  - family: Hsu
-    given: David
-  - family: Isler
-    given: Volkan
-  - family: Latombe
-    given: Jean-Claude
-  - family: Lin
-    given: Ming C.
   issued:
-  - year: 2011
-  title: <span class="nocase">Modeling Contact Friction and Joint Friction in Dynamic
-    Robotic Simulation Using the Principle of Maximum Dissipation</span>
-  container-title: Algorithmic foundations of robotics ix
-  collection-title: Springer tracts in advanced robotics
-  publisher: Springer Berlin Heidelberg
-  publisher-place: Berlin, Heidelberg
-  volume: '68'
-  annote: From Duplicate 1 ( Modeling contact friction and joint friction in dynamic
-    robotic simulation using the principle of maximum dissipation - Drumwright, Evan
-    )
-  URL: http://www.springerlink.com/index/E8WV5557TM0031V7.pdf http://www.springerlink.com/index/10.1007/978-3-642-17452-0
-  DOI: 10.1007/978-3-642-17452-0_15
-  ISBN: 978-3-642-17451-3
+  - year: 2012
+  title: Moby Rigid Body Simulator
+  URL: http://physsim.sourceforge.net/index.html
 
 - id: Drumwright2008
   type: article-journal
@@ -16803,15 +16783,35 @@ references:
   ISSN: 1077-2626
   PMID: '17993715'
 
-- id: MobyWebsite
-  type: no-type
+- id: Drumwright2011
+  type: chapter
   author:
   - family: Drumwright
     given: Evan
+  editor:
+  - family: Hsu
+    given: David
+  - family: Isler
+    given: Volkan
+  - family: Latombe
+    given: Jean-Claude
+  - family: Lin
+    given: Ming C.
   issued:
-  - year: 2012
-  title: Moby Rigid Body Simulator
-  URL: http://physsim.sourceforge.net/index.html
+  - year: 2011
+  title: <span class="nocase">Modeling Contact Friction and Joint Friction in Dynamic
+    Robotic Simulation Using the Principle of Maximum Dissipation</span>
+  container-title: Algorithmic foundations of robotics ix
+  collection-title: Springer tracts in advanced robotics
+  publisher: Springer Berlin Heidelberg
+  publisher-place: Berlin, Heidelberg
+  volume: '68'
+  annote: From Duplicate 1 ( Modeling contact friction and joint friction in dynamic
+    robotic simulation using the principle of maximum dissipation - Drumwright, Evan
+    )
+  URL: http://www.springerlink.com/index/E8WV5557TM0031V7.pdf http://www.springerlink.com/index/10.1007/978-3-642-17452-0
+  DOI: 10.1007/978-3-642-17452-0_15
+  ISBN: 978-3-642-17451-3
 
 - id: DuToit2012
   type: article-journal
@@ -18251,26 +18251,6 @@ references:
   volume: '7'
   issue: '6'
 
-- id: Featherstone2008a
-  type: article-journal
-  author:
-  - family: Featherstone
-    given: R.
-  issued:
-  - year: 2008
-    month: 5
-  title: <span class="nocase">An Architecture for Fast and Accurate Control of Shape
-    Memory Alloy Actuators</span>
-  container-title: The International Journal of Robotics Research
-  page: 595-611
-  volume: '27'
-  issue: '5'
-  keyword: acuators,force con-,position control,shape memory alloys,trol
-  URL: http://ijr.sagepub.com/cgi/doi/10.1177/0278364908090951
-  DOI: 10.1177/0278364908090951
-  ISBN: '0278364908090'
-  ISSN: 0278-3649
-
 - id: Featherstone1983
   type: article-journal
   author:
@@ -18299,6 +18279,26 @@ references:
   URL: http://ijr.sagepub.com/cgi/doi/10.1177/027836498300200102
   DOI: 10.1177/027836498300200102
   ISBN: 0278-3649
+  ISSN: 0278-3649
+
+- id: Featherstone2008a
+  type: article-journal
+  author:
+  - family: Featherstone
+    given: R.
+  issued:
+  - year: 2008
+    month: 5
+  title: <span class="nocase">An Architecture for Fast and Accurate Control of Shape
+    Memory Alloy Actuators</span>
+  container-title: The International Journal of Robotics Research
+  page: 595-611
+  volume: '27'
+  issue: '5'
+  keyword: acuators,force con-,position control,shape memory alloys,trol
+  URL: http://ijr.sagepub.com/cgi/doi/10.1177/0278364908090951
+  DOI: 10.1177/0278364908090951
+  ISBN: '0278364908090'
   ISSN: 0278-3649
 
 - id: Featherstone2000
@@ -18458,7 +18458,7 @@ references:
   ISBN: '6173847892'
   ISSN: 0960-1317
 
-- id: felton_method_2014
+- id: Felton2014
   type: article-journal
   author:
   - family: Felton
@@ -21719,19 +21719,6 @@ references:
     Robot</span>
   container-title: 2018 fall furi symposium
 
-- id: Gilbert2019
-  type: paper-conference
-  author:
-  - family: Gilbert
-    given: Alia
-  - family: Aukes
-    given: Daniel M.
-  issued:
-  - year: 2019
-  title: <span class="nocase">Lateral Control of Biologically-Inspired Underwater
-    Robot</span>
-  container-title: 2019 southwest robotics symposium (poster)
-
 - id: Gilbert2019a
   type: paper-conference
   author:
@@ -21744,6 +21731,19 @@ references:
   title: <span class="nocase">Vertical Control of Biologically-Inspired Underwater
     Robot</span>
   container-title: 2019 spring furi symposium
+
+- id: Gilbert2019
+  type: paper-conference
+  author:
+  - family: Gilbert
+    given: Alia
+  - family: Aukes
+    given: Daniel M.
+  issued:
+  - year: 2019
+  title: <span class="nocase">Lateral Control of Biologically-Inspired Underwater
+    Robot</span>
+  container-title: 2019 southwest robotics symposium (poster)
 
 - id: Gillespie2005
   type: article-journal
@@ -26098,6 +26098,32 @@ references:
   DOI: 10.1109/41.564162
   ISSN: '02780046'
 
+- id: Hiller2009a
+  type: article-journal
+  author:
+  - family: Hiller
+    given: Jonathan D.
+  - family: Lipson
+    given: Hod
+  issued:
+  - year: 2009
+  title: <span class="nocase">Design Automation for Multi-Material Printing</span>
+  container-title: 20th Annual International Solid Freeform Fabrication Symposium
+  page: 279-287
+  abstract: The advent of multi-material freeform fabrication technologies has exponentially
+    increased the mechanical design space available to engineers. The feature-based
+    paradigm of traditional CAD software is insufficient to take advantage of the
+    freedom of internal material distribution and gradients. Here we present a flexible
+    evolutionary design algorithm for 3D multi-material structures that fully utilizes
+    this expanded design space. The material distribution is optimized subject to
+    high level functional constraints, or simple constraints such as maximizing stiffness
+    per weight. The algorithm is inherently capable of shape optimization, or can
+    simply optimize material distribution within a given geometry. We demonstrate
+    autonomous design of freeform shapes, 3D non-uniform structures, and 3D compliant
+    actuators.
+  URL: http://www.utwired.engr.utexas.edu/lff/symposium/proceedingsArchive/pubs/Manuscripts/2009/2009-24-Hiller.pdf%5Cnhttp://utwired.engr.utexas.edu/lff/symposium/proceedingsArchive/2009
+    SFF Papers/2009-24-Hiller.pdf
+
 - id: Hiller2009
   type: article-journal
   author:
@@ -26125,61 +26151,6 @@ references:
     optimization
   DOI: 10.1145/1569901.1570105
   ISBN: '9781605583259'
-
-- id: Hiller2009a
-  type: article-journal
-  author:
-  - family: Hiller
-    given: Jonathan D.
-  - family: Lipson
-    given: Hod
-  issued:
-  - year: 2009
-  title: <span class="nocase">Design Automation for Multi-Material Printing</span>
-  container-title: 20th Annual International Solid Freeform Fabrication Symposium
-  page: 279-287
-  abstract: The advent of multi-material freeform fabrication technologies has exponentially
-    increased the mechanical design space available to engineers. The feature-based
-    paradigm of traditional CAD software is insufficient to take advantage of the
-    freedom of internal material distribution and gradients. Here we present a flexible
-    evolutionary design algorithm for 3D multi-material structures that fully utilizes
-    this expanded design space. The material distribution is optimized subject to
-    high level functional constraints, or simple constraints such as maximizing stiffness
-    per weight. The algorithm is inherently capable of shape optimization, or can
-    simply optimize material distribution within a given geometry. We demonstrate
-    autonomous design of freeform shapes, 3D non-uniform structures, and 3D compliant
-    actuators.
-  URL: http://www.utwired.engr.utexas.edu/lff/symposium/proceedingsArchive/pubs/Manuscripts/2009/2009-24-Hiller.pdf%5Cnhttp://utwired.engr.utexas.edu/lff/symposium/proceedingsArchive/2009
-    SFF Papers/2009-24-Hiller.pdf
-
-- id: Hiller2012
-  type: article-journal
-  author:
-  - family: Hiller
-    given: Jonathan
-  - family: Lipson
-    given: Hod
-  issued:
-  - year: 2012
-  title: <span class="nocase">Automatic design and manufacture of soft robots</span>
-  container-title: IEEE Transactions on Robotics
-  page: 457-466
-  volume: '28'
-  issue: '2'
-  abstract: We present the automated design and manufacture of static and locomotion
-    objects in which functionality is obtained purely by the unconstrained 3-D distribution
-    of materials. Recent advances in multimaterial fabrication techniques enable continuous
-    shapes to be fabricated with unprecedented fidelity unhindered by spatial constraints
-    and homogeneous materials. We address the challenges of exploitation of the freedom
-    of this vast new design space using evolutionary algorithms. We first show a set
-    of cantilever beams automatically designed to deflect in arbitrary static profiles
-    using hard and soft materials. These beams were automatically fabricated, and
-    their physical performance was confirmed within 0.5-7.6
-  keyword: Design automation,evolutionary robotics,soft robotics
-  DOI: 10.1109/TRO.2011.2172702
-  ISBN: 0028-0836
-  ISSN: '15523098'
-  PMID: '10984047'
 
 - id: Hiller2012a
   type: article-journal
@@ -26215,47 +26186,6 @@ references:
   DOI: 10.1089/soro.2013.0010
   ISBN: 2169-5172\r2169-5180
   ISSN: 2169-5172
-
-- id: Hiller2010
-  type: article-journal
-  author:
-  - family: Hiller
-    given: Jonathan
-  - family: Lipson
-    given: Hod
-  issued:
-  - year: 2010
-  title: <span class="nocase">Tunable digital material properties for 3D voxel printers</span>
-  container-title: Rapid Prototyping Journal
-  page: 241-247
-  volume: '16'
-  issue: '4'
-  abstract: Purpose – Digital materials are composed of many discrete voxels placed
-    in a massively parallel layer deposition process, as opposed to continuous (analog)
-    deposition techniques. The purpose of this paper is to explore the wide range
-    of material properties attainable using a voxel-based freeform fabrication process,
-    and demonstrate in simulation the versatility of fabricating with multiple materials
-    in this manner. Design/methodology/approach – A representative interlocking voxel
-    geometry was selected, and a nonlinear physics simulator was implemented to perform
-    virtual tensile tests on blocks of assembled voxels of varying materials. Surface
-    contact between tiles, plastic deformation of the individual voxels, and varying
-    manufacturing precision were all modeled. Findings – By varying the precision,
-    geometry, and material of the individual voxels, continuous control over the density,
-    elastic modulus, coefficient of thermal expansion, ductility, and failure mode
-    of the material is obtained. Also, the effects of several hierarchical voxel “microstructures”
-    are demonstrated, resulting in interesting properties such as negative Poisson’s
-    ratio. Research limitations/implications – This analysis is a case study of a
-    specific voxel geometry, which is representative of 2.5D interlocking shapes but
-    not necessarily all types of interlocking voxels. Practical implications – The
-    results imply that digital materials can exhibit widely varying and tunable properties
-    in a single desktop fabrication process. Originality/value – The paper explores
-    the vast potential of tunable materials, especially using the concept of voxel
-    microstructure, applicable primarily to 3D voxel printers but also to other multi-material
-    freeform fabrication processes.
-  keyword: image processing,paper type research paper,physical properties of materials,printers,simulation
-  DOI: 10.1108/13552541011049252
-  ISBN: 1355-2546
-  ISSN: 1355-2546
 
 - id: Hiller2009b
   type: article-journal
@@ -26302,6 +26232,76 @@ references:
   DOI: 10.1108/13552540910943441
   ISBN: 1355-2546
   ISSN: '13552546'
+
+- id: Hiller2010
+  type: article-journal
+  author:
+  - family: Hiller
+    given: Jonathan
+  - family: Lipson
+    given: Hod
+  issued:
+  - year: 2010
+  title: <span class="nocase">Tunable digital material properties for 3D voxel printers</span>
+  container-title: Rapid Prototyping Journal
+  page: 241-247
+  volume: '16'
+  issue: '4'
+  abstract: Purpose – Digital materials are composed of many discrete voxels placed
+    in a massively parallel layer deposition process, as opposed to continuous (analog)
+    deposition techniques. The purpose of this paper is to explore the wide range
+    of material properties attainable using a voxel-based freeform fabrication process,
+    and demonstrate in simulation the versatility of fabricating with multiple materials
+    in this manner. Design/methodology/approach – A representative interlocking voxel
+    geometry was selected, and a nonlinear physics simulator was implemented to perform
+    virtual tensile tests on blocks of assembled voxels of varying materials. Surface
+    contact between tiles, plastic deformation of the individual voxels, and varying
+    manufacturing precision were all modeled. Findings – By varying the precision,
+    geometry, and material of the individual voxels, continuous control over the density,
+    elastic modulus, coefficient of thermal expansion, ductility, and failure mode
+    of the material is obtained. Also, the effects of several hierarchical voxel “microstructures”
+    are demonstrated, resulting in interesting properties such as negative Poisson’s
+    ratio. Research limitations/implications – This analysis is a case study of a
+    specific voxel geometry, which is representative of 2.5D interlocking shapes but
+    not necessarily all types of interlocking voxels. Practical implications – The
+    results imply that digital materials can exhibit widely varying and tunable properties
+    in a single desktop fabrication process. Originality/value – The paper explores
+    the vast potential of tunable materials, especially using the concept of voxel
+    microstructure, applicable primarily to 3D voxel printers but also to other multi-material
+    freeform fabrication processes.
+  keyword: image processing,paper type research paper,physical properties of materials,printers,simulation
+  DOI: 10.1108/13552541011049252
+  ISBN: 1355-2546
+  ISSN: 1355-2546
+
+- id: Hiller2012
+  type: article-journal
+  author:
+  - family: Hiller
+    given: Jonathan
+  - family: Lipson
+    given: Hod
+  issued:
+  - year: 2012
+  title: <span class="nocase">Automatic design and manufacture of soft robots</span>
+  container-title: IEEE Transactions on Robotics
+  page: 457-466
+  volume: '28'
+  issue: '2'
+  abstract: We present the automated design and manufacture of static and locomotion
+    objects in which functionality is obtained purely by the unconstrained 3-D distribution
+    of materials. Recent advances in multimaterial fabrication techniques enable continuous
+    shapes to be fabricated with unprecedented fidelity unhindered by spatial constraints
+    and homogeneous materials. We address the challenges of exploitation of the freedom
+    of this vast new design space using evolutionary algorithms. We first show a set
+    of cantilever beams automatically designed to deflect in arbitrary static profiles
+    using hard and soft materials. These beams were automatically fabricated, and
+    their physical performance was confirmed within 0.5-7.6
+  keyword: Design automation,evolutionary robotics,soft robotics
+  DOI: 10.1109/TRO.2011.2172702
+  ISBN: 0028-0836
+  ISSN: '15523098'
+  PMID: '10984047'
 
 - id: Hinchet2018
   type: article-journal
@@ -26657,16 +26657,6 @@ references:
   title: '<span class="nocase">Impedence Control: an Approach to manipulation: Part
     II - Implementation</span>'
 
-- id: Hogan1985b
-  type: article-journal
-  author:
-  - family: Hogan
-    given: N.
-  issued:
-  - year: 1985
-  title: '<span class="nocase">Impedence Control: an Approach to manipulation - part
-    I - Theory</span>'
-
 - id: Hogan1985a
   type: article-journal
   author:
@@ -26676,6 +26666,16 @@ references:
   - year: 1985
   title: '<span class="nocase">Impedence Control: an Approach to manipulation - part
     III - Applications</span>'
+
+- id: Hogan1985b
+  type: article-journal
+  author:
+  - family: Hogan
+    given: N.
+  issued:
+  - year: 1985
+  title: '<span class="nocase">Impedence Control: an Approach to manipulation - part
+    I - Theory</span>'
 
 - id: Holladay2015
   type: paper-conference
@@ -30042,17 +30042,6 @@ references:
   DOI: 10.1016/j.snb.2013.11.103
   ISSN: '09254005'
 
-- id: Jiang
-  type: article-journal
-  author:
-  - family: Jiang
-    given: Mingsong
-  - family: Gravish
-    given: Nick
-  title: <span class="nocase">Rapid prototyping of insect-exoskeleton inspired robots</span>
-  page: 1-2
-  issue: c
-
 - id: Jiang2018
   type: article-journal
   author:
@@ -30089,6 +30078,17 @@ references:
   DOI: 10.1109/IROS.2018.8594421
   ISBN: '9781538680940'
   ISSN: '21530866'
+
+- id: Jiang
+  type: article-journal
+  author:
+  - family: Jiang
+    given: Mingsong
+  - family: Gravish
+    given: Nick
+  title: <span class="nocase">Rapid prototyping of insect-exoskeleton inspired robots</span>
+  page: 1-2
+  issue: c
 
 - id: Jiang2015
   type: article-journal
@@ -33601,18 +33601,6 @@ references:
   title: <span class="nocase">Developing an Educational Robotic Platform</span>
   container-title: 2018 spring furi symposium
 
-- id: Knaup2017
-  type: paper-conference
-  author:
-  - family: Knaup
-    given: Jacob
-  - family: Aukes
-    given: Daniel M.
-  issued:
-  - year: 2017
-  title: <span class="nocase">Design of a Hopping Platform Using Laminate Construction</span>
-  container-title: 2017 fall furi symposium
-
 - id: Knaup2017a
   type: paper-conference
   author:
@@ -33637,6 +33625,18 @@ references:
   title: <span class="nocase">Development of a Jumping Platform Utilizing Laminate
     Construction</span>
   container-title: Southwest robotics symposium
+
+- id: Knaup2017
+  type: paper-conference
+  author:
+  - family: Knaup
+    given: Jacob
+  - family: Aukes
+    given: Daniel M.
+  issued:
+  - year: 2017
+  title: <span class="nocase">Design of a Hopping Platform Using Laminate Construction</span>
+  container-title: 2017 fall furi symposium
 
 - id: Knodambashi2018
   type: paper-conference
@@ -34507,18 +34507,6 @@ references:
   ISBN: 078034300X
   ISSN: '10504729'
 
-- id: Kota1995
-  type: article-journal
-  author:
-  - family: Kota
-    given: S
-  - family: Bidare
-    given: S
-  issued:
-  - year: 1995
-  title: Differential Drive With N Outputs
-  container-title: US Patent 5,423,726
-
 - id: Kota1997
   type: article-journal
   author:
@@ -34537,6 +34525,18 @@ references:
   URL: http://link.aip.org/link/JMDEDB/v119/i2/p284/s1&Agg=doi
   DOI: 10.1115/1.2826248
   ISSN: '10500472'
+
+- id: Kota1995
+  type: article-journal
+  author:
+  - family: Kota
+    given: S
+  - family: Bidare
+    given: S
+  issued:
+  - year: 1995
+  title: Differential Drive With N Outputs
+  container-title: US Patent 5,423,726
 
 - id: Kou2007
   type: article-journal
@@ -36356,6 +36356,42 @@ references:
   DOI: 10.1016/j.jbiomech.2011.04.028
   ISSN: '00219290'
 
+- id: Lee2016a
+  type: article-journal
+  author:
+  - family: Lee
+    given: Hyunglae
+  - family: Hogan
+    given: Neville
+  issued:
+  - year: 2016
+    month: 12
+  title: <span class="nocase">Energetic Passivity of the Human Ankle Joint</span>
+  container-title: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  page: 1416-1425
+  volume: '24'
+  issue: '12'
+  abstract: 2016 IEEE. Understanding the passive or nonpassive behavior of the neuromuscular
+    system is important to design and control robots that physically interact with
+    humans, since it provides quantitative information to secure coupled stability
+    while maximizing performance. This has become more important than ever apace with
+    the increasing demand for robotic technologies in neurorehabilitation. This paper
+    presents a quantitative characterization of passive and nonpassive behavior of
+    the ankle of young healthy subjects, which provides a baseline for future studies
+    in persons with neurological impairments and information for future developments
+    of rehabilitation robots, such as exoskeletal devices and powered prostheses.
+    Measurements using a wearable ankle robot actuating 2 degrees-of-freedom of the
+    ankle combined with curl analysis and passivity analysis enabled characterization
+    of both quasi-static and steady-state dynamic behavior of the ankle, unavailable
+    from single DOF studies. Despite active neuromuscular control over a wide range
+    of muscle activation, in young healthy subjects passive or dissipative ankle behavior
+    predominated.
+  keyword: Dissipativity,human ankle dynamics,joint mechanical impedance,passivity,physical
+    human-robot interaction
+  URL: http://ieeexplore.ieee.org/document/7430364/
+  DOI: 10.1109/TNSRE.2016.2540607
+  ISSN: 1534-4320
+
 - id: Lee2015a
   type: article-journal
   author:
@@ -36400,40 +36436,25 @@ references:
   DOI: 10.1109/TNSRE.2014.2346927
   ISSN: 1534-4320
 
-- id: Lee2016a
+- id: Lee2014a
   type: article-journal
   author:
   - family: Lee
     given: Hyunglae
+  - family: Krebs
+    given: Hermano Igo
   - family: Hogan
     given: Neville
   issued:
-  - year: 2016
-    month: 12
-  title: <span class="nocase">Energetic Passivity of the Human Ankle Joint</span>
+  - year: 2014
+    month: 11
+  title: Multivariable Dynamic Ankle Mechanical Impedance With Relaxed Muscles
   container-title: IEEE Transactions on Neural Systems and Rehabilitation Engineering
-  page: 1416-1425
-  volume: '24'
-  issue: '12'
-  abstract: 2016 IEEE. Understanding the passive or nonpassive behavior of the neuromuscular
-    system is important to design and control robots that physically interact with
-    humans, since it provides quantitative information to secure coupled stability
-    while maximizing performance. This has become more important than ever apace with
-    the increasing demand for robotic technologies in neurorehabilitation. This paper
-    presents a quantitative characterization of passive and nonpassive behavior of
-    the ankle of young healthy subjects, which provides a baseline for future studies
-    in persons with neurological impairments and information for future developments
-    of rehabilitation robots, such as exoskeletal devices and powered prostheses.
-    Measurements using a wearable ankle robot actuating 2 degrees-of-freedom of the
-    ankle combined with curl analysis and passivity analysis enabled characterization
-    of both quasi-static and steady-state dynamic behavior of the ankle, unavailable
-    from single DOF studies. Despite active neuromuscular control over a wide range
-    of muscle activation, in young healthy subjects passive or dissipative ankle behavior
-    predominated.
-  keyword: Dissipativity,human ankle dynamics,joint mechanical impedance,passivity,physical
-    human-robot interaction
-  URL: http://ieeexplore.ieee.org/document/7430364/
-  DOI: 10.1109/TNSRE.2016.2540607
+  page: 1104-1114
+  volume: '22'
+  issue: '6'
+  URL: http://ieeexplore.ieee.org/document/6778753/
+  DOI: 10.1109/TNSRE.2014.2313838
   ISSN: 1534-4320
 
 - id: Lee2014b
@@ -36465,27 +36486,6 @@ references:
     structure,Multivariable impedance,Multivariable stiffness,Stiffness anisotropy
   URL: http://ieeexplore.ieee.org/document/6825865/
   DOI: 10.1109/TNSRE.2014.2328235
-  ISSN: 1534-4320
-
-- id: Lee2014a
-  type: article-journal
-  author:
-  - family: Lee
-    given: Hyunglae
-  - family: Krebs
-    given: Hermano Igo
-  - family: Hogan
-    given: Neville
-  issued:
-  - year: 2014
-    month: 11
-  title: Multivariable Dynamic Ankle Mechanical Impedance With Relaxed Muscles
-  container-title: IEEE Transactions on Neural Systems and Rehabilitation Engineering
-  page: 1104-1114
-  volume: '22'
-  issue: '6'
-  URL: http://ieeexplore.ieee.org/document/6778753/
-  DOI: 10.1109/TNSRE.2014.2313838
   ISSN: 1534-4320
 
 - id: Lee2016
@@ -38901,6 +38901,37 @@ references:
     robotic systems
   publisher: Springer
 
+- id: Lo2020b
+  type: article-journal
+  author:
+  - family: Lo
+    given: Chiao-Yueh
+  - family: Zhao
+    given: Yusen
+  - family: Kim
+    given: Cheolgyu
+  - family: Alsaid
+    given: Yousif
+  - family: Khodambashi
+    given: Roozbeh
+  - family: Peet
+    given: Matthew
+  - family: Fisher
+    given: Rebecca
+  - family: Marvi
+    given: Hamid
+  - family: Berman
+    given: Spring
+  - family: Aukes
+    given: Daniel
+  - family: He
+    given: Ximin
+  issued:
+  - year: 2020
+  title: <span class="nocase">Highly Stretchable Self-Sensing Actuator Based on Conductive
+    Photothermally-Responsive Hydrogel</span>
+  container-title: (submitted)
+
 - id: Lo2020
   type: article-journal
   author:
@@ -38935,37 +38966,6 @@ references:
   URL: https://linkinghub.elsevier.com/retrieve/pii/S1369702121001772
   DOI: 10.1016/j.mattod.2021.05.008
   ISSN: '13697021'
-
-- id: Lo2020b
-  type: article-journal
-  author:
-  - family: Lo
-    given: Chiao-Yueh
-  - family: Zhao
-    given: Yusen
-  - family: Kim
-    given: Cheolgyu
-  - family: Alsaid
-    given: Yousif
-  - family: Khodambashi
-    given: Roozbeh
-  - family: Peet
-    given: Matthew
-  - family: Fisher
-    given: Rebecca
-  - family: Marvi
-    given: Hamid
-  - family: Berman
-    given: Spring
-  - family: Aukes
-    given: Daniel
-  - family: He
-    given: Ximin
-  issued:
-  - year: 2020
-  title: <span class="nocase">Highly Stretchable Self-Sensing Actuator Based on Conductive
-    Photothermally-Responsive Hydrogel</span>
-  container-title: (submitted)
 
 - id: Lobontiu2002
   type: book
@@ -43327,6 +43327,20 @@ references:
   container-title: ASME 2018 dynamic systems and control conference
   annote: submitted
 
+- id: mishra2018robust
+  type: article-journal
+  author:
+  - family: Mishra
+    given: Shatadal
+  - family: Zhang
+    given: Wenlong
+  issued:
+  - year: 2018
+  title: <span class="nocase">Robust Attitude Control for Quadrotors based on Parameter
+    Optimization of Nonlinear Disturbance Observer</span>
+  container-title: ASME Journal of Dynamic Systems, Measurement, and Control
+  annote: submitted
+
 - id: mishra2016hybrid
   type: paper-conference
   author:
@@ -43356,20 +43370,6 @@ references:
   container-title: American control conference (acc), 2017
   publisher: IEEE
   page: 3593-3598
-
-- id: mishra2018robust
-  type: article-journal
-  author:
-  - family: Mishra
-    given: Shatadal
-  - family: Zhang
-    given: Wenlong
-  issued:
-  - year: 2018
-  title: <span class="nocase">Robust Attitude Control for Quadrotors based on Parameter
-    Optimization of Nonlinear Disturbance Observer</span>
-  container-title: ASME Journal of Dynamic Systems, Measurement, and Control
-  annote: submitted
 
 - id: Mitani2019
   type: book
@@ -44101,12 +44101,12 @@ references:
     online haptics course, piloted in Autumn 2013, will be available as a self-paced
     course at http://hapticsonline.stanford.edu. In this demonstration, conference
     attendees will be able to assemble and program Hapkits.
-  keyword: ',Educational institutions,Friction,Hapkit,Haptic interfaces,Laboratories,Lasers,Limiting,computer
+  keyword: Educational institutions,Friction,Hapkit,Haptic interfaces,Laboratories,Lasers,Limiting,computer
     aided instruction,computer science education,custom Arduino-based controller board,distance
     learning,educational courses,force-sensitive resistor,friction drive,hands-on
     laboratory,haptic interfaces,haptic paddle design,kinesthetic haptic device,laboratory
     component,laser-cut acrylic structure,magneto-resistive sensor,motor,online courses,online
-    education,online haptics course,open-hardware haptic device,rotating magnet'
+    education,online haptics course,open-hardware haptic device,rotating magnet
   URL: http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6775560 http://ieeexplore.ieee.org/document/6775560/
   DOI: 10.1109/HAPTICS.2014.6775560
   ISBN: 978-1-4799-3131-6
@@ -44912,15 +44912,6 @@ references:
   issue: '4'
   URL: http://www.bjj.boneandjoint.org.uk/content/38-B/4/902.full.pdf
 
-- id: Napier1980
-  type: book
-  author:
-  - family: Napier
-    given: JR
-  issued:
-  - year: 1980
-  title: Hands
-
 - id: Napier1960
   type: article-journal
   author:
@@ -44931,6 +44922,15 @@ references:
   title: <span class="nocase">Studies of the hands of living primates</span>
   container-title: Proceedings of the Zoological Society of London
   URL: http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1960.tb05606.x/abstract
+
+- id: Napier1980
+  type: book
+  author:
+  - family: Napier
+    given: JR
+  issued:
+  - year: 1980
+  title: Hands
 
 - id: Narang2018
   type: article-journal
@@ -45445,24 +45445,6 @@ references:
   ISSN: 1742-5662
   PMID: '28566508'
 
-- id: r8
-  type: article-journal
-  author:
-  - family: Nguyen
-    given: Phi Luan
-  - family: Lee
-    given: Byung Ryong
-  - family: Others
-  issued:
-  - year: 2013
-  title: <span class="nocase">Dynamic modeling and experiment of a fish robot with
-    a flexible tail fin</span>
-  container-title: Journal of Bionic Engineering
-  publisher: Elsevier
-  page: 39-45
-  volume: '10'
-  issue: '1'
-
 - id: r9
   type: article-journal
   author:
@@ -45480,6 +45462,24 @@ references:
   page: 201-209
   volume: '10'
   issue: '2'
+
+- id: r8
+  type: article-journal
+  author:
+  - family: Nguyen
+    given: Phi Luan
+  - family: Lee
+    given: Byung Ryong
+  - family: Others
+  issued:
+  - year: 2013
+  title: <span class="nocase">Dynamic modeling and experiment of a fish robot with
+    a flexible tail fin</span>
+  container-title: Journal of Bionic Engineering
+  publisher: Elsevier
+  page: 39-45
+  volume: '10'
+  issue: '1'
 
 - id: Nguyen1989
   type: article-journal
@@ -48554,7 +48554,7 @@ references:
   DOI: 10.1016/j.cag.2013.05.022
   ISSN: '00978493'
 
-- id: Peraza-Hernandez2014a
+- id: Peraza2014a
   type: article-journal
   author:
   - family: Peraza-Hernandez
@@ -51283,6 +51283,29 @@ references:
     work, and that any work done by others or by myself previously has been acknowledged
     and referenced accordingly.
 
+- id: Reddy1987
+  type: article-journal
+  author:
+  - family: Reddy
+    given: J. N.
+  issued:
+  - year: 1987
+  title: <span class="nocase">A generalization of two-dimensional theories of laminated
+    composite plates</span>
+  container-title: Communications in Applied Numerical Methods
+  page: 173-180
+  volume: '3'
+  issue: '3'
+  abstract: Abstract A general two-dimensional shear deformation theory of laminated
+    composite plates is presented. The theory account for a desired degree of approximation
+    of the displacements through the laminate thickness. As special cases, the classical,
+    first-order (Reissner-Mindlin) and other shear deformation theories available
+    in the literature can be deduced from the present theory.
+  URL: http://onlinelibrary.wiley.com/doi/10.1002/cnm.1630030303/abstract http://dx.doi.org/10.1002/cnm.1630030303%5Cnhttp://doi.wiley.com/10.1002/cnm.1630030303
+  DOI: 10.1002/cnm.1630030303
+  ISBN: '07488025'
+  ISSN: 0748-8025
+
 - id: Reddy1984
   type: article-journal
   author:
@@ -51306,29 +51329,6 @@ references:
   DOI: 10.1115/1.3167719
   ISBN: 0021-8936
   ISSN: '00218936'
-
-- id: Reddy1987
-  type: article-journal
-  author:
-  - family: Reddy
-    given: J. N.
-  issued:
-  - year: 1987
-  title: <span class="nocase">A generalization of two-dimensional theories of laminated
-    composite plates</span>
-  container-title: Communications in Applied Numerical Methods
-  page: 173-180
-  volume: '3'
-  issue: '3'
-  abstract: Abstract A general two-dimensional shear deformation theory of laminated
-    composite plates is presented. The theory account for a desired degree of approximation
-    of the displacements through the laminate thickness. As special cases, the classical,
-    first-order (Reissner-Mindlin) and other shear deformation theories available
-    in the literature can be deduced from the present theory.
-  URL: http://onlinelibrary.wiley.com/doi/10.1002/cnm.1630030303/abstract http://dx.doi.org/10.1002/cnm.1630030303%5Cnhttp://doi.wiley.com/10.1002/cnm.1630030303
-  DOI: 10.1002/cnm.1630030303
-  ISBN: '07488025'
-  ISSN: 0748-8025
 
 - id: Reddy1989b
   type: article-journal
@@ -54546,35 +54546,6 @@ references:
   annote: Published online 2014; based on TR arXiv:1404.7828 \[cs.NE\]
   DOI: 10.1016/j.neunet.2014.09.003
 
-- id: Schmitt2000b
-  type: article-journal
-  author:
-  - family: Schmitt
-    given: John
-  - family: Holmes
-    given: Philip
-  issued:
-  - year: 2000
-    month: 12
-  title: '<span class="nocase">Mechanical models for insect locomotion: Dynamics and
-    stability in the horizontal plane - II. Application</span>'
-  container-title: Biological Cybernetics
-  page: 517-527
-  volume: '83'
-  issue: '6'
-  abstract: We study the dynamics and stability of legged locomotion in the horizontal
-    plane. We discuss the relevance of idealized mechanical models, developed in a
-    companion paper, to recent experiments and simulations on insect running and turning.
-    Applying our results to rapidly running cockroaches, we show that the models’
-    gait and force characteristics match observations reasonably well.
-  keyword: 'Algorithms,Animals,Biomechanical Phenomena,Cockroaches,Cockroaches: physiology,Gait,Gait:
-    physiology,Insects,Insects: physiology,Locomotion,Locomotion: physiology,Models,Neurological,Rotation,Running,Running:
-    physiology'
-  URL: http://www.ncbi.nlm.nih.gov/pubmed/11130584
-  DOI: 10.1007/s004220000181
-  ISSN: '03401200'
-  PMID: '11130584'
-
 - id: Schmitt2000a
   type: article-journal
   author:
@@ -54603,6 +54574,35 @@ references:
   DOI: 10.1007/s004220000181
   ISSN: '03401200'
   PMID: '11130583'
+
+- id: Schmitt2000b
+  type: article-journal
+  author:
+  - family: Schmitt
+    given: John
+  - family: Holmes
+    given: Philip
+  issued:
+  - year: 2000
+    month: 12
+  title: '<span class="nocase">Mechanical models for insect locomotion: Dynamics and
+    stability in the horizontal plane - II. Application</span>'
+  container-title: Biological Cybernetics
+  page: 517-527
+  volume: '83'
+  issue: '6'
+  abstract: We study the dynamics and stability of legged locomotion in the horizontal
+    plane. We discuss the relevance of idealized mechanical models, developed in a
+    companion paper, to recent experiments and simulations on insect running and turning.
+    Applying our results to rapidly running cockroaches, we show that the models’
+    gait and force characteristics match observations reasonably well.
+  keyword: 'Algorithms,Animals,Biomechanical Phenomena,Cockroaches,Cockroaches: physiology,Gait,Gait:
+    physiology,Insects,Insects: physiology,Locomotion,Locomotion: physiology,Models,Neurological,Rotation,Running,Running:
+    physiology'
+  URL: http://www.ncbi.nlm.nih.gov/pubmed/11130584
+  DOI: 10.1007/s004220000181
+  ISSN: '03401200'
+  PMID: '11130584'
 
 - id: schmitz2010tactile
   type: article-journal
@@ -55803,6 +55803,21 @@ references:
     given: Daniel
   title: <span class="nocase">5DOF robotic Fish</span>
 
+- id: Sharifzadeh2019a
+  type: article-journal
+  author:
+  - family: Sharifzadeh
+    given: Mohammad
+  - family: Jiang
+    given: Yuhao
+  - family: Aukes
+    given: Daniel M.
+  issued:
+  - year: 2021
+  title: <span class="nocase">Compensation of Material Deformation in Foldable Robots
+    (A Case Study of Spherical Parallel Manipulators Fabricated via Laminate Processes)</span>
+  container-title: ASME Journal of Mechanisms and Robotics (In Prep)
+
 - id: Sharifzadeh2020
   type: article-journal
   author:
@@ -55824,21 +55839,6 @@ references:
   URL: https://ieeexplore.ieee.org/document/9369911/
   DOI: 10.1109/LRA.2021.3063961
   ISSN: 2377-3766
-
-- id: Sharifzadeh2019a
-  type: article-journal
-  author:
-  - family: Sharifzadeh
-    given: Mohammad
-  - family: Jiang
-    given: Yuhao
-  - family: Aukes
-    given: Daniel M.
-  issued:
-  - year: 2021
-  title: <span class="nocase">Compensation of Material Deformation in Foldable Robots
-    (A Case Study of Spherical Parallel Manipulators Fabricated via Laminate Processes)</span>
-  container-title: ASME Journal of Mechanisms and Robotics (In Prep)
 
 - id: Sharifzadeha
   type: paper-conference
@@ -56619,6 +56619,23 @@ references:
   title: <span class="nocase">Twisting wire actuator</span>
   container-title: US Patent 7,477,965
 
+- id: Shuch2019a
+  type: article-journal
+  author:
+  - family: Shuch
+    given: Benjamin D
+  - family: Rogers
+    given: Eric
+  - family: Shafa
+    given: Taha
+  - family: Aukes
+    given: Daniel M
+  issued:
+  - year: 2021
+  title: A Two Dof Laminate Leg Walking Robot Platforms For Use In Research And The
+    Classroom
+  container-title: (under revision)
+
 - id: Shuch2019
   type: paper-conference
   author:
@@ -56637,23 +56654,6 @@ references:
   container-title: ASME 2019 international design engineering technical conferences
     and computers and information in engineering conference
   publisher-place: Anaheim, CA, USA
-
-- id: Shuch2019a
-  type: article-journal
-  author:
-  - family: Shuch
-    given: Benjamin D
-  - family: Rogers
-    given: Eric
-  - family: Shafa
-    given: Taha
-  - family: Aukes
-    given: Daniel M
-  issued:
-  - year: 2021
-  title: A Two Dof Laminate Leg Walking Robot Platforms For Use In Research And The
-    Classroom
-  container-title: (under revision)
 
 - id: Shuch2018
   type: thesis
@@ -56860,6 +56860,28 @@ references:
   DOI: 10.17226/13362
   ISBN: 978-0-309-25411-3
 
+- id: Singh1991
+  type: paper-conference
+  author:
+  - family: Singh
+    given: S.
+  issued:
+  - year: 1991
+  title: <span class="nocase">An operation space approach to robotic excavation</span>
+  container-title: Proceedings of the 1991 ieee international symposium on intelligent
+    control
+  publisher: IEEE
+  page: 481-486
+  abstract: A methodology for automatically generating robot actions for tasks that
+    cannot be abstracted into a geometrical basis because of complex interaction between
+    the robot and the world is proposed. The method considers such a task, robotic
+    excavation, by seeking to satisfy constraints posed by the robot and the world
+    to generate plans that optimize an arbitrary cost function. The constraints, the
+    optimizing scheme, and preliminary simulation results are discussed
+  URL: http://ieeexplore.ieee.org/document/187404/
+  DOI: 10.1109/ISIC.1991.187404
+  ISBN: 0-7803-0106-4
+
 - id: Singh1995
   type: paper-conference
   author:
@@ -56886,28 +56908,6 @@ references:
   DOI: 10.1109/ROBOT.1995.526025
   ISBN: 0-7803-1965-6
   ISSN: 1050-4729
-
-- id: Singh1991
-  type: paper-conference
-  author:
-  - family: Singh
-    given: S.
-  issued:
-  - year: 1991
-  title: <span class="nocase">An operation space approach to robotic excavation</span>
-  container-title: Proceedings of the 1991 ieee international symposium on intelligent
-    control
-  publisher: IEEE
-  page: 481-486
-  abstract: A methodology for automatically generating robot actions for tasks that
-    cannot be abstracted into a geometrical basis because of complex interaction between
-    the robot and the world is proposed. The method considers such a task, robotic
-    excavation, by seeking to satisfy constraints posed by the robot and the world
-    to generate plans that optimize an arbitrary cost function. The constraints, the
-    optimizing scheme, and preliminary simulation results are discussed
-  URL: http://ieeexplore.ieee.org/document/187404/
-  DOI: 10.1109/ISIC.1991.187404
-  ISBN: 0-7803-0106-4
 
 - id: Singh1992
   type: paper-conference
@@ -59641,59 +59641,17 @@ references:
   page: '112'
   abstract: Graduate These and Dissertation
 
-- id: Tachi2009a
-  type: article-journal
-  author:
-  - family: Tachi
-    given: Tomohiro
-  issued:
-  - year: 2009
-  title: <span class="nocase">Generalization of rigid foldable quadrilateral mesh
-    origami</span>
-  container-title: Proceedings of the International Association for Shell and Spatial
-    Structures (IASS) Symposium 2009
-  page: 2287-2294
-  issue: October
-  abstract: In general, a quadrilateral-mesh surface does not enable a continuous
-    rigid motion because an overconstrained system, in which the number of constraints
-    around degree-4 vertices (three for each vertex) exceeds the number of variables
-    (the number of hinges), is constructed. However, it is known that the developable
-    double corrugation surface, known as Miura-ori, produces a rigid deployment mechanism.
-    The rigid-foldability of Miura-ori is due to the singularity in its pattern, where
-    a single vertex is repeated. We generalize the geometric condition for enabling
-    rigid motion in general quadrilateral-mesh origami without simple repeating symmetry.
-    To ensure the existence of a finite motion, we derive the identity of functions
-    from the formula for degree-4 single-vertex origami. This yields a variety of
-    unexplored generalized shapes of quadrilateral-mesh origami that preserve one-DOF’finite
-    rigid-foldability in addition to developability and flat-foldability.
-  keyword: form finding,isometric transformation,origami,rigid foldability
-  URL: http://dspace.upv.es/manakin/handle/10251/6828
-  ISBN: 978-84-8363-461-5
-  ISSN: 1028365X
-
-- id: Tachi2013a
+- id: Tachi2013
   type: article-journal
   author:
   - family: Tachi
     given: Tomohiro
   issued:
   - year: 2013
-  title: Composite Rigid-Foldable Curved Origami Structure
-  container-title: Transformables
-  page: 1-6
-  issue: '1'
-  abstract: In this study, we show a family of multilayered rigid-foldable and flat-foldable
-    vault structures. A vault can be designed by constructing a rigid-foldable curved
-    folded tubular arch and assembling the arches to construct a multilayered surface.
-    The resulting vault is also rigidly flat-foldable. We first show the process involved
-    in the geometric construction of the tubular structure from a given space curve
-    defined by curvature and torsion functions. Next, we show a single-DOF rigid-folding
-    motion that is enabled by the curved folded tube. Finally, we show the parametric
-    design of a vault structure and discuss its design parameters and the resulting
-    form.
-  keyword: 2,and,consideration of the change,curved folding,deployable structure,in
-    the proportion of,of smooth curved folding,parametric design of the,rigid origami,s,section
-    leading to the,the geometric,the tube,vault
+  title: <span class="nocase">Interactive Form-Finding of Elastic Origami</span>
+  page: 7-10
+  issue: '5'
+  keyword: form-finding,kinematics,morphology,origami,rigid origami
 
 - id: Tachi2010
   type: article-journal
@@ -59729,18 +59687,6 @@ references:
   ISSN: 1077-2626
   PMID: '20075489'
 
-- id: Tachi2013
-  type: article-journal
-  author:
-  - family: Tachi
-    given: Tomohiro
-  issued:
-  - year: 2013
-  title: <span class="nocase">Interactive Form-Finding of Elastic Origami</span>
-  page: 7-10
-  issue: '5'
-  keyword: form-finding,kinematics,morphology,origami,rigid origami
-
 - id: Tachi2009
   type: paper-conference
   author:
@@ -59750,6 +59696,60 @@ references:
   - year: 2009
   title: <span class="nocase">Simulation of Rigid Origami</span>
   container-title: Origami4:Proceedings of 4OSME
+
+- id: Tachi2013a
+  type: article-journal
+  author:
+  - family: Tachi
+    given: Tomohiro
+  issued:
+  - year: 2013
+  title: Composite Rigid-Foldable Curved Origami Structure
+  container-title: Transformables
+  page: 1-6
+  issue: '1'
+  abstract: In this study, we show a family of multilayered rigid-foldable and flat-foldable
+    vault structures. A vault can be designed by constructing a rigid-foldable curved
+    folded tubular arch and assembling the arches to construct a multilayered surface.
+    The resulting vault is also rigidly flat-foldable. We first show the process involved
+    in the geometric construction of the tubular structure from a given space curve
+    defined by curvature and torsion functions. Next, we show a single-DOF rigid-folding
+    motion that is enabled by the curved folded tube. Finally, we show the parametric
+    design of a vault structure and discuss its design parameters and the resulting
+    form.
+  keyword: 2,and,consideration of the change,curved folding,deployable structure,in
+    the proportion of,of smooth curved folding,parametric design of the,rigid origami,s,section
+    leading to the,the geometric,the tube,vault
+
+- id: Tachi2009a
+  type: article-journal
+  author:
+  - family: Tachi
+    given: Tomohiro
+  issued:
+  - year: 2009
+  title: <span class="nocase">Generalization of rigid foldable quadrilateral mesh
+    origami</span>
+  container-title: Proceedings of the International Association for Shell and Spatial
+    Structures (IASS) Symposium 2009
+  page: 2287-2294
+  issue: October
+  abstract: In general, a quadrilateral-mesh surface does not enable a continuous
+    rigid motion because an overconstrained system, in which the number of constraints
+    around degree-4 vertices (three for each vertex) exceeds the number of variables
+    (the number of hinges), is constructed. However, it is known that the developable
+    double corrugation surface, known as Miura-ori, produces a rigid deployment mechanism.
+    The rigid-foldability of Miura-ori is due to the singularity in its pattern, where
+    a single vertex is repeated. We generalize the geometric condition for enabling
+    rigid motion in general quadrilateral-mesh origami without simple repeating symmetry.
+    To ensure the existence of a finite motion, we derive the identity of functions
+    from the formula for degree-4 single-vertex origami. This yields a variety of
+    unexplored generalized shapes of quadrilateral-mesh origami that preserve one-DOF’finite
+    rigid-foldability in addition to developability and flat-foldability.
+  keyword: form finding,isometric transformation,origami,rigid foldability
+  URL: http://dspace.upv.es/manakin/handle/10251/6828
+  ISBN: 978-84-8363-461-5
+  ISSN: 1028365X
 
 - id: Tachi2011
   type: article-journal
@@ -62948,25 +62948,6 @@ references:
   title: <span class="nocase">Concepts and Approaches for Mars Exploration</span>
   page: 4-5
 
-- id: Vallbo1978
-  type: chapter
-  author:
-  - family: Vallbo
-    given: A B
-  - family: Johansson
-    given: R S
-  editor:
-  - family: Gordon
-    given: G.
-  issued:
-  - year: 1978
-  title: <span class="nocase">The Tactile Sensory Innervation of the Glabrous Skin
-    of the Human Hand</span>
-  container-title: Active touch, the mechanism of recognition of objects by manipulation
-  publisher: Pergamon Press Ltd.
-  publisher-place: Oxford
-  page: 29-54
-
 - id: Vallbo1984
   type: article-journal
   author:
@@ -63007,6 +62988,25 @@ references:
   URL: http://www.ncbi.nlm.nih.gov/pubmed/6330008
   ISSN: 0721-9075
   PMID: '6330008'
+
+- id: Vallbo1978
+  type: chapter
+  author:
+  - family: Vallbo
+    given: A B
+  - family: Johansson
+    given: R S
+  editor:
+  - family: Gordon
+    given: G.
+  issued:
+  - year: 1978
+  title: <span class="nocase">The Tactile Sensory Innervation of the Glabrous Skin
+    of the Human Hand</span>
+  container-title: Active touch, the mechanism of recognition of objects by manipulation
+  publisher: Pergamon Press Ltd.
+  publisher-place: Oxford
+  page: 29-54
 
 - id: Van_Breugel2012-ba
   type: article-journal
@@ -64284,19 +64284,6 @@ references:
   ISSN: '12928941'
   PMID: '22395533'
 
-- id: Vogel2006
-  type: article-journal
-  author:
-  - family: Vogel
-    given: Steven
-  issued:
-  - year: 2006
-  title: <span class="nocase">Gravity and life on the ground</span>
-  container-title: Heart
-  page: 201-214
-  volume: '31'
-  issue: June
-
 - id: Vogel2005
   type: article-journal
   author:
@@ -64315,6 +64302,19 @@ references:
     These ears are hinges, too, but they’re made from flexible materials that bend
     instead of solid parts that slide.
   URL: http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:Better+Bent+Than+Broken#0
+
+- id: Vogel2006
+  type: article-journal
+  author:
+  - family: Vogel
+    given: Steven
+  issued:
+  - year: 2006
+  title: <span class="nocase">Gravity and life on the ground</span>
+  container-title: Heart
+  page: 201-214
+  volume: '31'
+  issue: June
 
 - id: Vogtmann2014
   type: article-journal
@@ -70051,26 +70051,6 @@ references:
   ISBN: '9781467356411'
   ISSN: '10504729'
 
-- id: Zarrouk2015
-  type: article-journal
-  author:
-  - family: Zarrouk
-    given: David
-  - family: Fearing
-    given: Ronald S.
-  issued:
-  - year: 2015
-    month: 2
-  title: <span class="nocase">Controlled In-Plane Locomotion of a Hexapod Using a
-    Single Actuator</span>
-  container-title: IEEE Transactions on Robotics
-  page: 157-167
-  volume: '31'
-  issue: '1'
-  URL: http://ieeexplore.ieee.org/document/7010029/
-  DOI: 10.1109/TRO.2014.2382981
-  ISSN: 1552-3098
-
 - id: Zarrouk2012
   type: article-journal
   author:
@@ -70097,6 +70077,26 @@ references:
   DOI: 10.1109/IROS.2012.6385663
   ISBN: '9781467317375'
   ISSN: '21530858'
+
+- id: Zarrouk2015
+  type: article-journal
+  author:
+  - family: Zarrouk
+    given: David
+  - family: Fearing
+    given: Ronald S.
+  issued:
+  - year: 2015
+    month: 2
+  title: <span class="nocase">Controlled In-Plane Locomotion of a Hexapod Using a
+    Single Actuator</span>
+  container-title: IEEE Transactions on Robotics
+  page: 157-167
+  volume: '31'
+  issue: '1'
+  URL: http://ieeexplore.ieee.org/document/7010029/
+  DOI: 10.1109/TRO.2014.2382981
+  ISSN: 1552-3098
 
 - id: Zarrouk2015a
   type: article-journal
