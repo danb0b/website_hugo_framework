@@ -56,14 +56,14 @@ EGR 557 - Foldable Robotics
 
 ## 3.1 Installing Google Colabatory
 > 1.   In google drive, go to New>More>Connect more apps
-> 2.  Search for “Colaboratory”
+> 2.  Search for "Colaboratory"
 > 3.   Install the drive add on
 
 
 ## 3.2 Starting new Google Colab Notebook
 > 1. In google drive, go to New>More>Google Colaboratory
 > 2. This opens up a fresh  Google Colab Notebook in the drive directory you were currently in
-> 3. The file will be a “.ipynb” file and can be downloaded as a Jupyter Notebook to run on a local instance if needed (File>Download .ipynb)
+> 3. The file will be a ".ipynb" file and can be downloaded as a Jupyter Notebook to run on a local instance if needed (File>Download .ipynb)
 
 ## 3.3 Importing Juypiter Notebook File
 > 1. In google drive, go to New>File Upload

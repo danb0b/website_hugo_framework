@@ -140,8 +140,8 @@ Please also bring your popup book to class on Wednesday.
 
 ## Bibliography
 
-[1] B. G. Winder, S. P. Magleby, and L. L. Howell, “Kinematic Representations of Pop-Up Paper Mechanisms,” J. Mech. Robot., vol. 1, no. 2, p. 021009, 2009, doi: 10.1115/1.3046128.
+[1] B. G. Winder, S. P. Magleby, and L. L. Howell, "Kinematic Representations of Pop-Up Paper Mechanisms," J. Mech. Robot., vol. 1, no. 2, p. 021009, 2009, doi: 10.1115/1.3046128.
 
 <https://asmedigitalcollection-asme-org.ezproxy1.lib.asu.edu/mechanismsrobotics/article/1/2/021009/478086/Kinematic-Representations-of-Pop-Up-Paper>
 
-[2] D. Birmingham, “Pop-Up! A manual of paper mechanisms.” .
+[2] D. Birmingham, "Pop-Up! A manual of paper mechanisms." .

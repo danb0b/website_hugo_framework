@@ -576,15 +576,15 @@ Please coordinate with your fellow students to make sure someone takes notes dur
 :::
 
 <!--
-Accommodations will be made for religious observances provided that students notify the instructor at the beginning of the semester concerning those dates.  Students who expect to miss class due to officially university-sanctioned activities should inform the instructor early in the semester.  Alternative arrangements will generally be made for any examinations and other graded in-class work affected by such absences. The preceding policies are based on [ACD 304–04](http://www.asu.edu/aad/manuals/acd/acd304-04.html), “Accommodation for Religious Practices” and [ACD 304–02](http://www.asu.edu/aad/manuals/acd/acd304-02.html), “Missed Classes Due to University-Sanctioned Activities.”
+Accommodations will be made for religious observances provided that students notify the instructor at the beginning of the semester concerning those dates.  Students who expect to miss class due to officially university-sanctioned activities should inform the instructor early in the semester.  Alternative arrangements will generally be made for any examinations and other graded in-class work affected by such absences. The preceding policies are based on [ACD 304–04](http://www.asu.edu/aad/manuals/acd/acd304-04.html), "Accommodation for Religious Practices" and [ACD 304–02](http://www.asu.edu/aad/manuals/acd/acd304-02.html), "Missed Classes Due to University-Sanctioned Activities."
 -->
 
 ### Accommodations
 Accommodations will be made for the following:
 
-* excused absences related to religious observances/practices that are in accord with [ACD 304–04](https://www.asu.edu/aad/manuals/acd/acd304-04.html), “Accommodation for Religious Practices”
-* excused absences related to university sanctioned events/activities that are in accord with [ACD 304–02](https://www.asu.edu/aad/manuals/acd/acd304-02.html), “Missed Classes Due to University-Sanctioned Activities”
-* Excused absences related to missed class due to military line-of-duty activities that are in accord with [ACD 304–11](https://www.asu.edu/aad/manuals/acd/acd304-11.html), “Missed Class Due to Military Line-of-Duty Activities,” and SSM 201–18, “Accommodating Active Duty Military”
+* excused absences related to religious observances/practices that are in accord with [ACD 304–04](https://www.asu.edu/aad/manuals/acd/acd304-04.html), "Accommodation for Religious Practices"
+* excused absences related to university sanctioned events/activities that are in accord with [ACD 304–02](https://www.asu.edu/aad/manuals/acd/acd304-02.html), "Missed Classes Due to University-Sanctioned Activities"
+* Excused absences related to missed class due to military line-of-duty activities that are in accord with [ACD 304–11](https://www.asu.edu/aad/manuals/acd/acd304-11.html), "Missed Class Due to Military Line-of-Duty Activities," and SSM 201–18, "Accommodating Active Duty Military"
 
 
 <!--We will coordinate on the first day of class to determine an appropriate way to submit assignments and projects.  They will be due before class on the day indicated; this process will likely be automated,  so late assignments will not be recorded(or automatically marked as late).  It will be your responsibility to submit late assignments to me *via email* as well.  The date and time the email was received will determine the number of late days.-->
@@ -657,7 +657,7 @@ Students in this class must adhere to ASU’s academic integrity policy, which c
 
 ## Copyright {.allowframebreaks}
 
-All course content and materials, including lectures (Zoom recorded lectures included), are copyrighted materials and students may not share outside the class, upload to online websites not approved by the instructor, sell, or distribute course content or notes taken during the conduct of the course (see [ACD 304–06](https://www.asu.edu/aad/manuals/acd/acd304-06.html), “Commercial Note Taking Services” and ABOR Policy [5-308 F.14](https://public.azregents.edu/Policy Manual/5-308-Student Code of Conduct.pdf) for more information).
+All course content and materials, including lectures (Zoom recorded lectures included), are copyrighted materials and students may not share outside the class, upload to online websites not approved by the instructor, sell, or distribute course content or notes taken during the conduct of the course (see [ACD 304–06](https://www.asu.edu/aad/manuals/acd/acd304-06.html), "Commercial Note Taking Services" and ABOR Policy [5-308 F.14](https://public.azregents.edu/Policy Manual/5-308-Student Code of Conduct.pdf) for more information).
 
 You must refrain from uploading to any course shell, discussion board, or website used by the course instructor or other course forum, material that is not the student's original work, unless the students first comply with all applicable copyright laws; faculty members reserve the right to delete materials on the grounds of suspected copyright infringement.
 

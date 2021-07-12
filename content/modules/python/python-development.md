@@ -267,7 +267,7 @@ type: submodule
 * Git – versioning tool
   * Command-line tool for tracking and committing changes
   * many guis available
-  * I suggest “git-extensions” for windows
+  * I suggest "git-extensions" for windows
 * Github
   * website built around git: https://github.com/
   * Other collaboration tools
@@ -301,7 +301,7 @@ type: submodule
 
 * Strongly encourage you to learn about licensing.  The future of your work depends on it.
 * Copyright and who owns it.
-* “What is Open source?”
+* "What is Open source?"
   * Ability to see/use/change/release others’ code?
   * Ability to use others’ code with your code
 * Copyright vs copyleft
@@ -332,7 +332,7 @@ type: submodule
 * This is the basic way to release and install python code.
 * Installing moves project code from local folder to python system directory.
 * Download source, open command terminal, type
-  * “python setup.py install”
+  * "python setup.py install"
   * Can also build, build_ext, etc.
 * Being phased out in favor of pip
 * Setup script still important
