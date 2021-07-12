@@ -1,0 +1,14 @@
+{{ define "title" }}
+{{ .Page.Title }} | {{ .Site.Title}}
+{{ end }}
+
+{{ define "main" }}
+<main class="container">
+  <article>
+  {{ .Summary }}
+  
+  <div class="alert-danger text-center"><h2><i class="bi bi-exclamation-triangle-fill"></i> This assignment has not yet been posted</h1></div>
+  
+  </article>
+</main>
+{{ end }}
