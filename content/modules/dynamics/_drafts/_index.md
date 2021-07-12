@@ -1,4 +1,0 @@
----
-title: Dynamics
-layout: module
----
