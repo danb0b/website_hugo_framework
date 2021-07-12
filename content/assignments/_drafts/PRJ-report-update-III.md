@@ -4,6 +4,7 @@ class_name: EGR557
 copyright: Daniel M. Aukes
 //overlay_text: DRAFT
 bibliography: ../../misc/bibliography.bib
+bibFile: data/bib.json # path relative to project root
 csl: ../../misc/ieee.csl
 title: Report Update III
 week: "12"

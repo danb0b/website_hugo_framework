@@ -2,6 +2,7 @@
 title: Sarrus Kinematics
 subtitle: Individual Assignment
 #bibliography: ../misc/bibliography.bib
+bibFile: data/bib.json # path relative to project root
 #csl: ../misc/ieee.csl
 week: "05"
 points: 100

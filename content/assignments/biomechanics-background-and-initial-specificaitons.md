@@ -2,6 +2,7 @@
 title: Biomechanics Background and Initial Specifications
 subtitle: Team Assignment
 bibliography: ../project/bibliography.bib
+bibFile: data/bib.json # path relative to project root
 csl: ../project/ieee.csl
 week: "04"
 points: 200

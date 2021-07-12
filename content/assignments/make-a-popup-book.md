@@ -5,6 +5,7 @@ week: "01"
 type: assignment
 module: manufacturing
 #bibliography: ../project/bibliography.bib
+bibFile: data/bib.json # path relative to project root
 #csl: ../project/ieee.csl
 points: 200
 layout: page

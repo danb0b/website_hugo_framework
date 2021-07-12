@@ -1,5 +1,6 @@
 ---
 bibliography: ../bibliography.bib
+bibFile: data/bib.json # path relative to project root
 csl: ../ieee.csl
 title: Intro to Python
 type: submodule
