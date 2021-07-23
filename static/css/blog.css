@@ -94,11 +94,6 @@ h1.card-title, h2.card-title, h3.card-title, h4.card-title, h5.card-title, h6.ca
   line-height: 1.2;
 }
 
-.card-img,.card-img-top{
-  height: 1rem;
-  width: 1rem;
-}
-
 body {
     font-family: 'Roboto', sans-serif;    font-size: 1rem;
     font-weight: 400;
