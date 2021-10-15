@@ -6,35 +6,25 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        {{ with .Site.GetPage "/" }}
-        {{ range .Pages }}
-        
-        {{ $numSubPages := len .Pages }}
-        {{ if (or (eq $numSubPages 0) (gt $numSubPages 15)) }}
-      
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Name }}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {{ range .Children }}
+            <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+            {{ end }}
+          </div>
         </li>
         {{ else }}
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="{{ .RelPermalink }}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            {{ .Title }}
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {{ range .Pages}}
-            <li><a class="dropdown-item" href="{{.RelPermalink}}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
-        </li>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        {{ range .Site.Params.menu }}
         <li class="nav-item">
-          {{ if eq .external false }}<a class="nav-link" href="{{ .link }}">{{ .name }}</a>{{ else }}
-          <a class="nav-link" href="{{ .link }}"target="_blank">{{ .name }} <i class="bi bi-link"></i></a> {{ end }}
+          <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
         </li>
-        {{end}}
+        {{ end }}
+        {{ end }}
         
       </ul>
       <span class="navbar-text">

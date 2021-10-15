@@ -1,6 +1,6 @@
-baseURL: https://danaukes.com/
+baseURL: ""
 languageCode: en-us
-title: Foldable Robotics
+title: Site Name
 
 theme: 
   - "hugo-cite"
@@ -8,13 +8,9 @@ theme:
 enableInlineShortcodes: true
 
 params: 
-  menu:
-    - name: Canvas
-      link: https://canvas.asu.edu/
-      external: true
-  author: Daniel M. Aukes
+  author: Author Name
   home: ""
-  description: Making better Foldable Robots
+  description: Description
 
 ignorefiles:
   - "content/modules/biomechanics/_drafts"
