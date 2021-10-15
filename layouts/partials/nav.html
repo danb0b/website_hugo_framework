@@ -1,0 +1,14 @@
+{{ $a:=split .File.Path "."}}
+{{ $b:=index $a 0 }}
+{{ $dirs:=split $b "/"}}
+{{$l:=len $dirs}}
+{{$dir2:= slice "" }}
+
+<div class="text-center">
+{{ range $index, $item := $dirs }}
+{{$dir2 = $dir2 | append $item }}
+{{ $curpath:=delimit $dir2 "/"}}
+<a href="{{ if (lt $index (sub $l 1)) }}{{$curpath}}{{else}}./{{end}}">{{.}}</a>
+{{ if (lt $index (sub $l 1)) }} |  {{end}}
+{{ end }}
+</div>

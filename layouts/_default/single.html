@@ -5,6 +5,9 @@
 {{ define "main" }}
 <main class="container">
   <h1>{{ .Title }}</h1>
+  
+  {{ partial "nav.html" . }}
+  
   <article>
   {{ .Content }}
   </article>
