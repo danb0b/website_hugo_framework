@@ -11,6 +11,11 @@ params:
   author: Author Name
   home: ""
   description: Description
+  search_plugin: plugins/search/fuse.js
+  search: enable
+  outputs:
+    - HTML
+    - JSON
 
 ignorefiles:
   - "content/modules/biomechanics/_drafts"
