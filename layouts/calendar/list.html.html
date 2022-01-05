@@ -119,6 +119,13 @@
 <tr>
 <td> 16 </td><td> {{ range $leca }} <a href="{{.RelPermalink}}">{{ partial "title_or_url2.html" . }} </a></br>{{ end }} </td> <td>  {{ range $lecb }} <a href="{{.RelPermalink}}">{{ partial "title_or_url2.html" . }} </a></br>{{ end }} </td> <td>{{ range $pages }} <a href="{{.RelPermalink}}">{{ partial "title_or_url.html" . }} </a> ({{ .Params.Subtitle }})</br>{{ end }}</td>
 </tr>
+
+{{ $pages := where .Site.Pages "Params.week" "=" "17" }}
+{{ $leca := where .Site.Pages "Params.lecture" "=" "33" }}
+{{ $lecb := where .Site.Pages "Params.lecture" "=" "34" }}
+<tr>
+<td> 17 </td><td> {{ range $leca }} <a href="{{.RelPermalink}}">{{ partial "title_or_url2.html" . }} </a></br>{{ end }} </td> <td>  {{ range $lecb }} <a href="{{.RelPermalink}}">{{ partial "title_or_url2.html" . }} </a></br>{{ end }} </td> <td>{{ range $pages }} <a href="{{.RelPermalink}}">{{ partial "title_or_url.html" . }} </a> ({{ .Params.Subtitle }})</br>{{ end }}</td>
+</tr>
 </table>
 
 {{ .Content }}
