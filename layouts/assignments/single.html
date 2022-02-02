@@ -8,6 +8,10 @@
   {{ partial "nav.html" . }}
 
   <article>
+  <div style="text-align:center;">
+  <h1>{{.Title}}</h1>
+  <p><em>{{.Params.subtitle}}</em></p>
+  </div>
   {{ .Content }}
   </article>
 </main>
