@@ -6,7 +6,10 @@
 <main class="container">
   {{ partial "breadcrumbs.html" . }}
 
-  <h1>{{ .Title }}</h1>
+  <h1>{{ .Title }}</h1>  
+  {{range .Params.tags}}
+  <a href="/tags/{{.}}"><span class="badge bg-info">{{.}}</span></a>
+  {{end}}
   
   <article>
   {{ .Content }}
