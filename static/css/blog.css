@@ -226,33 +226,13 @@ table td {
 border: 1px solid #e8e8e8; 
 }
 
-.container,
-.container-fluid,
-.container-xxl,
-.container-xl,
-.container-lg,
-.container-md,
-.container-sm {
-  width: 100%;
-  padding-right: var(--bs-gutter-x, 0.75rem);
-  padding-left: var(--bs-gutter-x, 0.75rem);
-  margin-right: auto;
-  margin-left: auto;
-}
 
 @media (min-width: 576px) {
-  .container {
-    max-width: 100%;
-  }
-    
   .container-sm {
     max-width: 540px;
   }
 }
 @media (min-width: 768px) {
-  .container {
-    max-width: 100%;
-  }
   .container-md, .container-sm {
     max-width: 720px;
   }
