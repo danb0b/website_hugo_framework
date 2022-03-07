@@ -5,10 +5,14 @@
 {{$dir2:= slice "" }}
 
 <div class="text-center">
+<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
 {{ range $index, $item := $dirs }}
 {{$dir2 = $dir2 | append $item }}
 {{ $curpath:=delimit $dir2 "/"}}
-<a href="{{ if (lt $index (sub $l 1)) }}{{$curpath}}{{else}}./{{end}}">{{.}}</a>
-{{ if (lt $index (sub $l 1)) }} |  {{end}}
+{{ if (lt $index (sub $l 1)) }}<li class="breadcrumb-item"><a href="{{ if (lt $index (sub $l 1)) }}{{$curpath}}{{else}}./{{end}}">{{.}}</a></li>
+{{ else }}<li class="breadcrumb-item active"  aria-current="page">{{.}}</li>{{end}}
 {{ end }}
+  </ol>
+</nav>
 </div>
