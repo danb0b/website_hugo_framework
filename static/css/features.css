@@ -64,7 +64,7 @@
 .breadcrumb {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 0;
+  padding: 1rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
   background: #eee;
