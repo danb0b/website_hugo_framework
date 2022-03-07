@@ -1,17 +1,20 @@
 {{ $a:=split .File.Path "."}}
 {{ $b:=index $a 0 }}
 {{ $dirs:=split $b "/"}}
-{{$l:=len $dirs}}
+{{$m:=len $dirs}}
 {{$dir2:= slice "" }}
+{{$l:=cond (eq (index $dirs (sub $m 1)) "index") (sub $m 1) $m}}
 
 <div class="text-center">
-<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+<nav aria-label="breadcrumb">
   <ol class="breadcrumb">
 {{ range $index, $item := $dirs }}
+{{ if (lt $index $l)}}
 {{$dir2 = $dir2 | append $item }}
 {{ $curpath:=delimit $dir2 "/"}}
 {{ if (lt $index (sub $l 1)) }}<li class="breadcrumb-item"><a href="{{ if (lt $index (sub $l 1)) }}{{$curpath}}{{else}}./{{end}}">{{.}}</a></li>
 {{ else }}<li class="breadcrumb-item active"  aria-current="page">{{.}}</li>{{end}}
+{{ end }}
 {{ end }}
   </ol>
 </nav>
