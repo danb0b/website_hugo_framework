@@ -7,9 +7,9 @@
 <main class="container">
 <h1>{{.Title}}</h1>
 
-{{ $submodules := where .Pages "Params.type" "=" "submodule" }}
+{{ $submodules := where .Pages "Params.type" "=" nil }}
 {{ $tutorials := where .Pages "Params.type" "=" "tutorial" }}
-{{ $others := where .Pages "Params.type" "=" nil }}
+{{ $others := where ( where .Pages "Params.type" "!=" nil) "Params.type" "!=" "tutorial" }}
 
 {{ if ne (len $submodules) 0}}
 <h2>Submodules</h2>
