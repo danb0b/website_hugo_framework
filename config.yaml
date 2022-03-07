@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: https://localhost
 languageCode: en-us
 title: Site Name
 
@@ -7,15 +7,51 @@ theme:
 
 enableInlineShortcodes: true
 
+menu:
+#  footer:
+#  - URL: https://cnn.com
+#    name: CNN
+#    weight: 1
+#  main:
+#  - URL: https://cnn.com
+#    name: CNN
+#    weight: 1
+
+taxonomies:
+  category: categories
+  tag: tags
+
 params: 
   author: Author Name
   home: ""
   description: Description
+#  search_plugin: plugins/search/fuse.js
+  search: enable
+#  plugins:
+#    css:
+#    - URL: plugins/bootstrap/bootstrap.min.css
+#    - URL: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css   
+#    js:
+#    - URL: plugins/search/fuse.min.js
+#    - URL: plugins/search/search.js
+
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
 
 ignorefiles:
-  - "content/modules/biomechanics/_drafts"
-  - "content/modules/introduction/_drafts"
-  - "content/modules/integration/_drafts"
-  - "content/modules/dynamics/_drafts"
-  - "content/modules/compliance/_drafts"
-  - "assignments/_drafts"  
+  - ignore/*
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: monokailight
+    noClasses: true
+    
+summarylength: 10
+paginate: 6
+    
