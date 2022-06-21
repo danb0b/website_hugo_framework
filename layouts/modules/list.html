@@ -15,7 +15,7 @@
 <h2>Submodules</h2>
 <div class="row g-3">
   {{ range $submodules }}
-  {{ partial "cardmod.html" . }}
+  {{ partial "card.html" . }}
   {{ end }}
 </div>
 {{ end }}
@@ -24,7 +24,7 @@
 <h2>Tutorials</h2>
 <div class="row g-3">
   {{ range $tutorials }}
-  {{ partial "cardmod.html" . }}
+  {{ partial "card.html" . }}
   {{ end }}
 </div>
 {{ end }}
@@ -36,7 +36,7 @@
 {{ end }}
 <div class="row g-3">
   {{ range $others }}
-  {{ partial "cardmod.html" . }}
+  {{ partial "card.html" . }}
   {{ end }}
 </div>
 {{ end }}
