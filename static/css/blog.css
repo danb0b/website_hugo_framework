@@ -6,7 +6,8 @@
 }
 
 .blog-header-logo {
-  font-family: 'Roboto', sans-serif;    font-size: 1rem;
+  font-family: 'Roboto', sans-serif;    
+  font-size: 1rem;
   font-weight: 900;
   line-height: 1.0;
 
@@ -48,7 +49,7 @@ h6 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 900;
+  font-weight: 400;
   line-height: 1.25;
 
   /*font-family: 'Oleo Script', cursive;*/
@@ -81,17 +82,18 @@ h5{
 }
 
 h1.card-header, h2.card-header, h3.card-header, h4.card-header, h5.card-header, h6.card-header {
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.0;
 }
 
 h1.card-title, h2.card-title, h3.card-title, h4.card-title, h5.card-title, h6.card-title {
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.0;
 }
 
 .card{
   line-height: 1.2;
+  background-color: #eff6fc;
 }
 
 body {
