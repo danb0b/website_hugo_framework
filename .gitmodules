@@ -1,3 +1,3 @@
 [submodule "themes/hugo-cite"]
 	path = themes/hugo-cite
-	url = git@github.com:loup-brun/hugo-cite.git
+	url = git@danb0b.github.com:danb0b/external_hugo-cite.git
