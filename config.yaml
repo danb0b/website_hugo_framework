@@ -53,5 +53,5 @@ markup:
     noClasses: true
     
 summarylength: 10
-paginate: 6
+pagerSize: 6
     
